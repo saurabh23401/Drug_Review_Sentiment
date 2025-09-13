@@ -1,11 +1,11 @@
-# import os
+import os
 import logging
 import pandas as pd
 from typing import Optional
 
-class TSVReader:
+class Data_load:
     """
-    A class for reading TSV (Tab-Separated Values) files with robust logging and error handling.
+    A class for reading Data files with robust logging and error handling.
 
     Attributes
     ----------
@@ -20,9 +20,9 @@ class TSVReader:
         Reads a TSV file and returns a pandas DataFrame.
     """
 
-    def __init__(self, data_dir: str = "data/raw", logger: Optional[logging.Logger] = None):
+    def __init__(self, data_dir: str = "../data/raw", logger: Optional[logging.Logger] = None):
         """
-        Initialize TSVReader with a data directory and logger.
+        Initialize Data reader with a data directory and logger.
 
         Parameters
         ----------
@@ -54,7 +54,7 @@ class TSVReader:
 
     def read_tsv(self, filename: str) -> pd.DataFrame:
         """
-        Reads a TSV file from the data directory.
+        Reads a TSV (Tab-Separated Values) file from the data directory.
 
         Parameters
         ----------
