@@ -1,0 +1,1037 @@
+id,urlDrugName,rating,effectiveness,sideEffects,condition,sentiment_rating,mdl_sentiment_lbl,mdl_lbl_score
+1366,biaxin,9,Considerably Effective,Mild Side Effects,sinus infection,positive,NEGATIVE,0.9949334263801575
+3724,lamictal,9,Highly Effective,Mild Side Effects,bipolar disorder,positive,NEGATIVE,0.7467579245567322
+3824,depakene,4,Moderately Effective,Severe Side Effects,bipolar disorder,neutral,NEGATIVE,0.9925140738487244
+969,sarafem,10,Highly Effective,No Side Effects,bi-polar / anxiety,positive,POSITIVE,0.9890430569648743
+696,accutane,10,Highly Effective,Mild Side Effects,nodular acne,positive,NEGATIVE,0.9444751143455505
+1380,biaxin,2,Marginally Effective,No Side Effects,sinus infection,negative,POSITIVE,0.9872998595237732
+45,carbamazepine,8,Considerably Effective,Moderate Side Effects,seizure,positive,NEGATIVE,0.997490644454956
+1939,ultram-er,10,Highly Effective,Mild Side Effects,cervical disk degeneration and lower back pain,positive,POSITIVE,0.5827150344848633
+2576,klonopin,10,Highly Effective,No Side Effects,panic disorder,positive,NEGATIVE,0.9801182746887207
+1093,effexor,1,Marginally Effective,Extremely Severe Side Effects,depression,negative,NEGATIVE,0.9884694218635559
+1962,lyrica,3,Moderately Effective,Moderate Side Effects,fibromyalgia,negative,NEGATIVE,0.9629229307174683
+142,valtrex,9,Highly Effective,Mild Side Effects,cold sores,positive,NEGATIVE,0.9901403784751892
+1269,provigil,6,Moderately Effective,No Side Effects,chronic fatigue,neutral,POSITIVE,0.6024386882781982
+3499,maxalt,10,Highly Effective,Mild Side Effects,migraine,positive,NEGATIVE,0.8043727278709412
+1598,xanax,5,Moderately Effective,Mild Side Effects,anxiety,neutral,NEGATIVE,0.9964042901992798
+4095,chantix,5,Moderately Effective,Moderate Side Effects,stop smoking,neutral,NEGATIVE,0.9885397553443909
+3707,ranitidine,7,Moderately Effective,No Side Effects,heartburn,neutral,NEGATIVE,0.9923509955406189
+3168,prednisone,7,Considerably Effective,Moderate Side Effects,rheumatoid arthritis,neutral,NEGATIVE,0.9875633716583252
+1866,augmentin,8,Highly Effective,Severe Side Effects,diverticulitis,positive,NEGATIVE,0.9951058626174927
+2150,zyrtec,10,Highly Effective,No Side Effects,seasonal allergies,positive,NEGATIVE,0.9342271685600281
+1544,methotrexate,3,Considerably Effective,Severe Side Effects,psoraitic arthritis,negative,NEGATIVE,0.9916543960571289
+3985,fosamax,9,Considerably Effective,No Side Effects,bone loss,positive,NEGATIVE,0.9888442158699036
+1597,xanax,9,Considerably Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9776198863983154
+545,propranolol,5,Highly Effective,Mild Side Effects,rapid heart rate,neutral,NEGATIVE,0.9816867113113403
+1631,premarin,4,Moderately Effective,Mild Side Effects,surgical memopause,neutral,POSITIVE,0.9693470001220703
+298,lovenox,10,Highly Effective,Mild Side Effects,blood thinning/ circulation during pregnancy,positive,NEGATIVE,0.8810508251190186
+3690,effexor-xr,9,Highly Effective,Mild Side Effects,severe depression,positive,NEGATIVE,0.9596904516220093
+1438,tirosint,9,Highly Effective,No Side Effects,slow thyroid  & irregular period,positive,POSITIVE,0.7344698905944824
+2312,lexapro,3,Marginally Effective,Severe Side Effects,depression/anxiety,negative,NEGATIVE,0.9768378734588623
+2114,renova,5,Moderately Effective,Mild Side Effects,wrinkles,neutral,NEGATIVE,0.9906097054481506
+1481,cymbalta,7,Considerably Effective,Mild Side Effects,depression,neutral,NEGATIVE,0.994664192199707
+3202,omnicef,1,Marginally Effective,Severe Side Effects,"severe sore throat with pus, and ear pain on same",negative,NEGATIVE,0.9923664927482605
+1349,crestor,9,Considerably Effective,No Side Effects,hypercholestremia,positive,NEGATIVE,0.7122797966003418
+777,naproxen,1,Ineffective,Severe Side Effects,back spasm,negative,NEGATIVE,0.990921676158905
+2991,strattera,8,Considerably Effective,Mild Side Effects,bipolar,positive,POSITIVE,0.5519794821739197
+2050,prempro,8,Considerably Effective,Mild Side Effects,pre-menepause,positive,NEGATIVE,0.9203624129295349
+1933,zithromax,6,Considerably Effective,Mild Side Effects,bronchitis infectiion,neutral,NEGATIVE,0.8698423504829407
+3657,kapidex,8,Considerably Effective,No Side Effects,reflux,positive,NEGATIVE,0.9850971698760986
+2451,symbyax,8,Considerably Effective,No Side Effects,bipolar disorder,positive,NEGATIVE,0.9923418760299683
+2616,adderall-xr,8,Highly Effective,Moderate Side Effects,lack of attention for studying/school,positive,NEGATIVE,0.9853449463844299
+492,meridia,10,Highly Effective,No Side Effects,obesity,positive,NEGATIVE,0.9820379018783569
+3675,effexor-xr,10,Highly Effective,No Side Effects,depression & anxiety,positive,NEGATIVE,0.9974409341812134
+886,paxil,8,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9474567770957947
+1601,xanax,9,Highly Effective,No Side Effects,severe depression< agrophobia & other phobias,positive,NEGATIVE,0.885698139667511
+304,protopic,10,Highly Effective,No Side Effects,eczema,positive,NEGATIVE,0.9518976211547852
+1168,zofran,1,Ineffective,Extremely Severe Side Effects,nausea (after surgery),negative,NEGATIVE,0.9935035109519958
+3492,serzone,10,Highly Effective,Mild Side Effects,sleep distubance/mild depression,positive,NEGATIVE,0.9312228560447693
+3370,lipitor,10,Highly Effective,Mild Side Effects,high cholesterol,positive,NEGATIVE,0.9677011966705322
+217,wellbutrin-xl,7,Moderately Effective,Mild Side Effects,depression,neutral,NEGATIVE,0.9661026000976562
+3313,zoloft,8,Highly Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9404974579811096
+580,acyclovir,5,Moderately Effective,No Side Effects,herpes,neutral,NEGATIVE,0.9971801042556763
+3445,provera,3,Marginally Effective,Severe Side Effects,hormones,negative,NEGATIVE,0.9958896040916443
+1867,augmentin,9,Highly Effective,Moderate Side Effects,sinus infection,positive,NEGATIVE,0.9962310194969177
+571,atenolol,7,Considerably Effective,Severe Side Effects,supraventricular tachycardia,neutral,NEGATIVE,0.9869813323020935
+2056,prempro,4,Moderately Effective,Severe Side Effects,menopause,neutral,NEGATIVE,0.9945449829101562
+1068,botox,1,Moderately Effective,Extremely Severe Side Effects,cosmetic/frown lines,negative,NEGATIVE,0.993346095085144
+347,neurontin,9,Highly Effective,Mild Side Effects,pain relief,positive,NEGATIVE,0.9869367480278015
+2552,dexedrine,1,Ineffective,Moderate Side Effects,add,negative,NEGATIVE,0.9639044404029846
+3417,aricept,9,Highly Effective,No Side Effects,2,positive,NEGATIVE,0.8343909382820129
+2466,aciphex,10,Highly Effective,No Side Effects,stomach nervousness,positive,NEGATIVE,0.915995180606842
+682,accutane,7,Considerably Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9874124526977539
+547,propranolol,10,Considerably Effective,Mild Side Effects,tremor,positive,NEGATIVE,0.9716470837593079
+1612,avage,10,Highly Effective,Mild Side Effects,hormonal acne/sun damage,positive,POSITIVE,0.8507963418960571
+3173,prednisone,4,Marginally Effective,Mild Side Effects,itching body rash,neutral,NEGATIVE,0.9863210320472717
+2281,lexapro,7,Considerably Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.7293161749839783
+3161,prednisone,7,Highly Effective,Moderate Side Effects,crohns,neutral,POSITIVE,0.5452626943588257
+1177,prozac,8,Highly Effective,Mild Side Effects,depression,positive,NEGATIVE,0.797338604927063
+87,pristiq,7,Moderately Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9967707395553589
+1773,citalopram,2,Ineffective,Moderate Side Effects,depression,negative,NEGATIVE,0.9972031116485596
+870,paxil,1,Ineffective,Severe Side Effects,depression,negative,NEGATIVE,0.9974933862686157
+3738,lamictal,10,Highly Effective,No Side Effects,bipolar ii,positive,NEGATIVE,0.9881189465522766
+185,adderall,7,Considerably Effective,Moderate Side Effects,attention deficit disorder,neutral,POSITIVE,0.9460965991020203
+189,adderall,10,Highly Effective,No Side Effects,adult add,positive,POSITIVE,0.8746407628059387
+4003,celexa,10,Highly Effective,Mild Side Effects,panic disorder,positive,NEGATIVE,0.8924934267997742
+378,lamotrigine,1,Marginally Effective,Severe Side Effects,bipolar disorder,negative,NEGATIVE,0.9935972690582275
+2988,strattera,9,Highly Effective,Mild Side Effects,adhd,positive,NEGATIVE,0.626003086566925
+3886,abilify,6,Considerably Effective,No Side Effects,depression,neutral,NEGATIVE,0.9993945360183716
+2452,ecotrin,3,Moderately Effective,Severe Side Effects,cad,negative,NEGATIVE,0.9624196887016296
+3233,nuvaring,9,Highly Effective,Mild Side Effects,birth control,positive,NEGATIVE,0.986497700214386
+3568,differin,5,Moderately Effective,Mild Side Effects,mild acne,neutral,NEGATIVE,0.9818638563156128
+3122,reglan,4,Marginally Effective,No Side Effects,lactation,neutral,NEGATIVE,0.9935451745986938
+1289,zocor,8,Considerably Effective,Mild Side Effects,elevated cholesterol,positive,NEGATIVE,0.99216628074646
+3505,atacand,9,Considerably Effective,Mild Side Effects,high blood pressure,positive,NEGATIVE,0.9864999055862427
+2664,prinivil,9,Moderately Effective,Mild Side Effects,high blood pressure & left ventricular hypertrophy,positive,NEGATIVE,0.9913256764411926
+1721,retin-a-micro,3,Marginally Effective,Moderate Side Effects,mild acne,negative,NEGATIVE,0.9785399436950684
+2144,sustiva,1,Considerably Effective,Extremely Severe Side Effects,hiv,negative,NEGATIVE,0.9616780281066895
+3896,dispermox,7,Considerably Effective,Mild Side Effects,bronchitis,neutral,NEGATIVE,0.9981687068939209
+497,meridia,9,Highly Effective,Extremely Severe Side Effects,obesity,positive,NEGATIVE,0.9889499545097351
+2500,naprosyn,6,Considerably Effective,Mild Side Effects,back,neutral,NEGATIVE,0.9975070357322693
+326,ativan,8,Considerably Effective,Moderate Side Effects,insomnia,positive,POSITIVE,0.508186399936676
+3031,seroquel,7,Considerably Effective,Moderate Side Effects,bipolar disorder,neutral,NEGATIVE,0.9302736520767212
+4018,celexa,7,Highly Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9946544170379639
+42,zyprexa,10,Highly Effective,Mild Side Effects,schizo-affect/bi-polar,positive,POSITIVE,0.6019867658615112
+2695,efudex,4,Moderately Effective,Severe Side Effects,actinic keratoses,neutral,NEGATIVE,0.9948596954345703
+3467,ambien-cr,10,Highly Effective,No Side Effects,sleeping,positive,NEGATIVE,0.9824864864349365
+2894,taxotere,8,Highly Effective,Severe Side Effects,cancer,positive,NEGATIVE,0.9964553117752075
+3359,lipitor,1,Marginally Effective,Extremely Severe Side Effects,high cholesterol,negative,NEGATIVE,0.9744462370872498
+2253,zovirax,10,Highly Effective,No Side Effects,cold sores,positive,NEGATIVE,0.9765443801879883
+463,flagyl,6,Considerably Effective,Moderate Side Effects,stomach bacteria,neutral,NEGATIVE,0.9881171584129333
+2193,clonazepam,10,Highly Effective,Mild Side Effects,anxiety/ panic attacks,positive,NEGATIVE,0.9983065128326416
+694,accutane,8,Considerably Effective,Moderate Side Effects,acne,positive,NEGATIVE,0.9735956192016602
+1145,ponstel,7,Considerably Effective,No Side Effects,migraine,neutral,NEGATIVE,0.9947406649589539
+1566,lortab,4,Highly Effective,Severe Side Effects,pain from recovering from abdominal surgery,neutral,NEGATIVE,0.9810426235198975
+1135,methadone,8,Highly Effective,Moderate Side Effects,opiate dependency,positive,NEGATIVE,0.9857450127601624
+2209,advair-diskus,10,Highly Effective,No Side Effects,asthma,positive,NEGATIVE,0.983447790145874
+4088,mobic,1,Marginally Effective,Moderate Side Effects,severe back pain,negative,NEGATIVE,0.9876536726951599
+2631,depo-provera,4,Highly Effective,Severe Side Effects,preventing pregnancy,neutral,NEGATIVE,0.9897974729537964
+3108,ortho-tri-cyclen,4,Considerably Effective,Moderate Side Effects,birth control/control of menstrual cycle,neutral,NEGATIVE,0.992236316204071
+2175,zyrtec,7,Highly Effective,Moderate Side Effects,allergies,neutral,NEGATIVE,0.9931895732879639
+1783,citalopram,7,Moderately Effective,Moderate Side Effects,"depression, anxiety",neutral,NEGATIVE,0.9795823097229004
+641,seasonique,5,Moderately Effective,Moderate Side Effects,birth control,neutral,NEGATIVE,0.995897650718689
+3959,prilosec,10,Highly Effective,No Side Effects,gerd,positive,NEGATIVE,0.9957839846611023
+3156,prednisone,8,Highly Effective,Moderate Side Effects,severe asthma,positive,NEGATIVE,0.9918125867843628
+569,atenolol,7,Highly Effective,Moderate Side Effects,tachycardia,neutral,NEGATIVE,0.9788588285446167
+3781,bentyl,7,Considerably Effective,Moderate Side Effects,diaheria assc. w/ chemo,neutral,NEGATIVE,0.9858440160751343
+3228,nuvaring,10,Highly Effective,No Side Effects,birth control,positive,NEGATIVE,0.9763062596321106
+3584,differin,5,Moderately Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9619462490081787
+2265,lexapro,10,Highly Effective,No Side Effects,mild depression,positive,NEGATIVE,0.9629238247871399
+3154,prednisone,10,Highly Effective,Mild Side Effects,rheumatoid arthritis,positive,NEGATIVE,0.9803885221481323
+3991,fosamax,4,Ineffective,Mild Side Effects,osteoporosis,neutral,NEGATIVE,0.9708935022354126
+2777,clindamycin,2,Moderately Effective,Severe Side Effects,post dental work,negative,NEGATIVE,0.9695958495140076
+1976,lyrica,9,Highly Effective,Moderate Side Effects,leg pain from compressed spinal cord,positive,NEGATIVE,0.9934349060058594
+31,alprazolam,10,Highly Effective,Mild Side Effects,anxiety and panic diorder,positive,NEGATIVE,0.9893186688423157
+1133,methadone,9,Highly Effective,Moderate Side Effects,back pain,positive,NEGATIVE,0.9797719120979309
+1522,glucophage,1,Ineffective,Extremely Severe Side Effects,diabetes type 2,negative,NEGATIVE,0.9708575010299683
+2100,renova,8,Moderately Effective,Mild Side Effects,aging skin on face,positive,NEGATIVE,0.5364605784416199
+872,paxil,7,Considerably Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9933170080184937
+3816,nolvadex,7,Moderately Effective,Moderate Side Effects,breast cancer,neutral,NEGATIVE,0.989410936832428
+2225,allegra,8,Considerably Effective,Mild Side Effects,seasonal allergies,positive,NEGATIVE,0.6494107842445374
+2596,buspar,10,Highly Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9971020817756653
+3170,prednisone,2,Moderately Effective,Severe Side Effects,polymyalgia rheumatica (pmr),negative,NEGATIVE,0.9902309775352478
+2506,dicyclomine,7,Moderately Effective,Mild Side Effects,ibs,neutral,POSITIVE,0.9706923961639404
+398,relpax,5,Marginally Effective,Moderate Side Effects,migraine headaches,neutral,NEGATIVE,0.9667401313781738
+2116,renova,5,Considerably Effective,Severe Side Effects,wrinkles,neutral,NEGATIVE,0.9948981404304504
+3905,nexium,10,Highly Effective,No Side Effects,acid reflux,positive,NEGATIVE,0.9416294097900391
+1903,doxycycline,7,Highly Effective,Moderate Side Effects,mrsa infected hip resurfacing.,neutral,NEGATIVE,0.9896180033683777
+3477,dextroamphetamine,8,Considerably Effective,Mild Side Effects,add,positive,NEGATIVE,0.9484286904335022
+2569,klonopin,1,Marginally Effective,Moderate Side Effects,anxiety,negative,NEGATIVE,0.9952098727226257
+4072,mobic,2,Ineffective,Moderate Side Effects,"poss. rheumitoid arth. lupus, or fibromyalgia",negative,NEGATIVE,0.9964334964752197
+1673,claritin,1,Ineffective,No Side Effects,allergies,negative,NEGATIVE,0.9823775291442871
+3346,lipitor,7,Considerably Effective,No Side Effects,high cholesterol,neutral,NEGATIVE,0.9933022260665894
+2703,naltrexone,10,Highly Effective,No Side Effects,multiple sclerosis,positive,NEGATIVE,0.9927005767822266
+33,alprazolam,10,Highly Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9954785704612732
+214,trental,8,Highly Effective,Mild Side Effects,hiv,positive,NEGATIVE,0.9930778741836548
+1502,metrogel,1,Ineffective,No Side Effects,skin  texture changes due to rosacea,negative,NEGATIVE,0.9990779161453247
+3671,effexor-xr,3,Marginally Effective,Mild Side Effects,depression,negative,NEGATIVE,0.8675264120101929
+1335,seroquel-xr,8,Highly Effective,Extremely Severe Side Effects,bipolar ii,positive,NEGATIVE,0.8883983492851257
+1124,evista,8,Considerably Effective,No Side Effects,loss of bone density,positive,NEGATIVE,0.8679454922676086
+2424,synthroid,8,Highly Effective,No Side Effects,hashimoto's thyroiditis,positive,NEGATIVE,0.9906110167503357
+533,trazodone,9,Considerably Effective,Mild Side Effects,insomnia/poor sleep quality,positive,NEGATIVE,0.9928352236747742
+943,levaquin,1,Moderately Effective,Extremely Severe Side Effects,bronchitis,negative,NEGATIVE,0.9967154264450073
+3333,tetracycline,8,Considerably Effective,Mild Side Effects,moderate persisting acne,positive,NEGATIVE,0.9910016655921936
+617,finacea,9,Highly Effective,Mild Side Effects,acne and red marks from acne,positive,NEGATIVE,0.9715235233306885
+2692,indocin,10,Highly Effective,No Side Effects,rheumatoid arthritis,positive,NEGATIVE,0.9705983400344849
+895,paxil,1,Ineffective,Extremely Severe Side Effects,severe depression,negative,NEGATIVE,0.9962905645370483
+3964,prilosec,8,Considerably Effective,Moderate Side Effects,dyspepsia,positive,NEGATIVE,0.9801028370857239
+2550,dexedrine,3,Ineffective,Moderate Side Effects,supposed adhd,negative,NEGATIVE,0.9958685636520386
+2768,duac,10,Highly Effective,No Side Effects,acne,positive,NEGATIVE,0.5187148451805115
+644,seasonique,2,Considerably Effective,Severe Side Effects,prevent pregnancy/reduce frequency of migraines,negative,NEGATIVE,0.9954628348350525
+840,ritalin,7,Moderately Effective,Mild Side Effects,adhd,neutral,POSITIVE,0.9853178262710571
+1376,biaxin,3,Considerably Effective,Moderate Side Effects,bronchitis,negative,NEGATIVE,0.9966742992401123
+3852,voltaren,1,Moderately Effective,Extremely Severe Side Effects,reactive arthritis (leg joint swelling/stiffness),negative,NEGATIVE,0.9675745368003845
+2826,wellbutrin,6,Moderately Effective,Moderate Side Effects,stop smoking/depression,neutral,POSITIVE,0.5447718501091003
+2378,femara,3,Moderately Effective,Moderate Side Effects,breast cancer,negative,NEGATIVE,0.983247697353363
+3633,retin-a,6,Considerably Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9789690971374512
+3556,vytorin,3,Moderately Effective,Moderate Side Effects,high cholesterol,negative,NEGATIVE,0.9897991418838501
+1456,cymbalta,8,Considerably Effective,Mild Side Effects,depression,positive,POSITIVE,0.5399649143218994
+2374,propecia,7,Highly Effective,Mild Side Effects,hair loss,neutral,NEGATIVE,0.9958926439285278
+3074,emsam,1,Ineffective,Extremely Severe Side Effects,depression,negative,POSITIVE,0.8339657783508301
+3474,ambien-cr,10,Considerably Effective,No Side Effects,insomnia,positive,POSITIVE,0.9885793924331665
+803,ambien,10,Highly Effective,No Side Effects,insomnia,positive,POSITIVE,0.9650545120239258
+3050,seroquel,5,Highly Effective,Moderate Side Effects,insomnia,neutral,NEGATIVE,0.9855296015739441
+2697,detrol-la,9,Considerably Effective,Mild Side Effects,incontinence,positive,NEGATIVE,0.9933909177780151
+3968,norvasc,5,Moderately Effective,Moderate Side Effects,hypertension,neutral,NEGATIVE,0.9976663589477539
+3613,retin-a,7,Moderately Effective,Mild Side Effects,"acne, anti-aging",neutral,NEGATIVE,0.9825924634933472
+1375,biaxin,7,Considerably Effective,Mild Side Effects,"sinus infection, chest infection",neutral,NEGATIVE,0.9948154091835022
+2582,clobetasol,7,Moderately Effective,Mild Side Effects,psoraisis,neutral,NEGATIVE,0.9705914258956909
+3735,lamictal,10,Highly Effective,No Side Effects,bipolar ii,positive,NEGATIVE,0.9140088558197021
+192,adderall,9,Highly Effective,Mild Side Effects,"add, depression",positive,NEGATIVE,0.9558837413787842
+903,paxil,1,Ineffective,Extremely Severe Side Effects,ocd,negative,NEGATIVE,0.9685064554214478
+1397,ortho-evra,8,Highly Effective,Moderate Side Effects,birth control,positive,NEGATIVE,0.9877579212188721
+3986,fosamax,4,Marginally Effective,Moderate Side Effects,osteoporosis,neutral,NEGATIVE,0.9859151840209961
+538,trazodone,5,Considerably Effective,Mild Side Effects,insomnia/ a bit of depression,neutral,NEGATIVE,0.9897491335868835
+4119,chantix,3,Moderately Effective,Moderate Side Effects,quit smoking,negative,NEGATIVE,0.9992477893829346
+1461,cymbalta,8,Highly Effective,Mild Side Effects,major depressive disorder/anxiety,positive,NEGATIVE,0.935660719871521
+1243,sotret,4,Considerably Effective,Severe Side Effects,acne,neutral,NEGATIVE,0.9704485535621643
+844,ritalin,8,Considerably Effective,Mild Side Effects,add,positive,NEGATIVE,0.6361693739891052
+3178,desyrel,9,Highly Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9643846154212952
+519,requip,10,Highly Effective,Mild Side Effects,restless leg syndrome,positive,POSITIVE,0.7556759119033813
+1407,adipex-p,10,Highly Effective,Mild Side Effects,chronic fatigue syndrome,positive,NEGATIVE,0.6492723226547241
+752,flonase,8,Considerably Effective,No Side Effects,allergies,positive,NEGATIVE,0.7878059148788452
+3275,zoloft,9,Considerably Effective,No Side Effects,depression,positive,POSITIVE,0.7632094621658325
+408,restasis,7,Moderately Effective,No Side Effects,dry eye,neutral,NEGATIVE,0.9765525460243225
+2261,lexapro,8,Considerably Effective,Mild Side Effects,depression,positive,POSITIVE,0.609399676322937
+3893,dispermox,10,Highly Effective,No Side Effects,tooth abscess,positive,NEGATIVE,0.9735344052314758
+987,antivert,5,Moderately Effective,Moderate Side Effects,b.p.p.v. (benign proxysmal positional vertigo),neutral,NEGATIVE,0.9902192950248718
+481,meridia,6,Marginally Effective,No Side Effects,weight loss,neutral,NEGATIVE,0.952082097530365
+528,trazodone,9,Highly Effective,No Side Effects,"sleep disorder, insomnia",positive,NEGATIVE,0.9939932227134705
+2955,zyban,10,Highly Effective,No Side Effects,smoking,positive,NEGATIVE,0.9887747764587402
+2307,lexapro,10,Highly Effective,Mild Side Effects,depression/anxiety,positive,NEGATIVE,0.9854961037635803
+1518,glucophage,10,Highly Effective,No Side Effects,diabetes type 2,positive,NEGATIVE,0.9326300621032715
+687,accutane,7,Moderately Effective,Mild Side Effects,acne,neutral,NEGATIVE,0.9461151361465454
+2753,xenical,6,Considerably Effective,Moderate Side Effects,obesity,neutral,NEGATIVE,0.9940924048423767
+2284,lexapro,10,Considerably Effective,No Side Effects,always crying,positive,NEGATIVE,0.9916511178016663
+88,pristiq,10,Highly Effective,No Side Effects,depression,positive,NEGATIVE,0.9705594182014465
+522,requip,8,Highly Effective,No Side Effects,rls,positive,NEGATIVE,0.997797966003418
+918,paxil,8,Highly Effective,Moderate Side Effects,stress and depression,positive,NEGATIVE,0.9928063154220581
+1749,topamax,7,Highly Effective,Moderate Side Effects,epilepsy,neutral,NEGATIVE,0.9931570887565613
+3265,zoloft,4,Moderately Effective,Mild Side Effects,irritable bowel syndrome,neutral,NEGATIVE,0.9797975420951843
+1857,augmentin,3,Highly Effective,Moderate Side Effects,suspected upper respiratory infection,negative,NEGATIVE,0.998435914516449
+1120,effexor,8,Considerably Effective,Mild Side Effects,75 mg,positive,POSITIVE,0.9944658875465393
+1501,metrogel,1,Ineffective,Severe Side Effects,rosacea,negative,NEGATIVE,0.985850989818573
+3216,penlac,1,Ineffective,No Side Effects,toenail fungus,negative,NEGATIVE,0.9895137548446655
+530,trazodone,8,Highly Effective,Moderate Side Effects,insomnia,positive,NEGATIVE,0.9858340620994568
+2817,wellbutrin,9,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9908888339996338
+2975,strattera,5,Considerably Effective,Moderate Side Effects,adhd,neutral,NEGATIVE,0.9895455241203308
+2216,benicar-hct,10,Highly Effective,No Side Effects,hypertension,positive,NEGATIVE,0.991436779499054
+4048,amoxil,10,Highly Effective,No Side Effects,h-pylori,positive,POSITIVE,0.9769787192344666
+148,zmax,10,Highly Effective,No Side Effects,tonsillitis,positive,NEGATIVE,0.9842788577079773
+2717,elavil,7,Considerably Effective,Moderate Side Effects,migraines,neutral,NEGATIVE,0.9832079410552979
+3686,effexor-xr,7,Considerably Effective,Mild Side Effects,depression,neutral,NEGATIVE,0.9910818338394165
+1274,provigil,10,Highly Effective,No Side Effects,narcolepsy,positive,NEGATIVE,0.948749303817749
+1629,premarin,9,Highly Effective,Mild Side Effects,partial hysterectomy,positive,NEGATIVE,0.9488583207130432
+3531,lunesta,7,Moderately Effective,Mild Side Effects,insomnia,neutral,NEGATIVE,0.9966668486595154
+3918,nexium,10,Highly Effective,No Side Effects,hiatal hernia,positive,NEGATIVE,0.9892793297767639
+4087,mobic,6,Highly Effective,Severe Side Effects,whiplash/ back and neck pain from auto accident,neutral,NEGATIVE,0.9921665191650391
+3937,nexium,7,Highly Effective,No Side Effects,stomach acid/reflux,neutral,POSITIVE,0.9085565209388733
+3384,baclofen,8,Considerably Effective,Mild Side Effects,multiple sclerosis,positive,NEGATIVE,0.9955337047576904
+1083,effexor,9,Highly Effective,No Side Effects,migraine,positive,NEGATIVE,0.9941257238388062
+3397,proscar,7,Moderately Effective,Mild Side Effects,hair loss,neutral,NEGATIVE,0.9867022633552551
+2016,triaz,10,Highly Effective,Mild Side Effects,acne,positive,NEGATIVE,0.7600498795509338
+1253,tapazole,10,Highly Effective,No Side Effects,hyperthyroidism,positive,NEGATIVE,0.9834110140800476
+3687,effexor-xr,7,Highly Effective,Moderate Side Effects,"depression, social anxiety disorder",neutral,NEGATIVE,0.9778741002082825
+1578,xanax,9,Highly Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9803099036216736
+2187,clonazepam,9,Highly Effective,Mild Side Effects,anxiety/ panic attacks/ insomnia,positive,NEGATIVE,0.9519447088241577
+4061,amoxil,10,Highly Effective,No Side Effects,sore throat with a low grade fever,positive,NEGATIVE,0.9724248051643372
+1388,benzaclin,8,Considerably Effective,Mild Side Effects,acne,positive,NEGATIVE,0.979993462562561
+1,nasonex,7,Considerably Effective,Moderate Side Effects,congested sinuses,neutral,NEGATIVE,0.970616340637207
+2218,benicar-hct,1,Moderately Effective,Severe Side Effects,hypertension,negative,NEGATIVE,0.9902030229568481
+3206,arava,1,Ineffective,Severe Side Effects,ra and ankylizing spondolitis,negative,NEGATIVE,0.6606228947639465
+2620,trileptal,7,Moderately Effective,Moderate Side Effects,tri geminal neuralgia,neutral,NEGATIVE,0.8244917988777161
+302,pataday,9,Highly Effective,No Side Effects,allergic reaction,positive,NEGATIVE,0.9891493916511536
+504,paxil-cr,5,Moderately Effective,Severe Side Effects,anxiety/panic attacks,neutral,NEGATIVE,0.9930243492126465
+1014,estrace,7,Considerably Effective,Moderate Side Effects,surgical menopause,neutral,POSITIVE,0.9591073393821716
+224,wellbutrin-xl,10,Highly Effective,No Side Effects,chronic depression,positive,NEGATIVE,0.9331856369972229
+1805,oxycontin,3,Considerably Effective,Extremely Severe Side Effects,back pain,negative,NEGATIVE,0.9928105473518372
+381,lamotrigine,10,Highly Effective,No Side Effects,ptsd,positive,NEGATIVE,0.9946830868721008
+3540,vivelle-dot,10,Highly Effective,No Side Effects,low estragen,positive,POSITIVE,0.7824380993843079
+942,levaquin,1,Ineffective,Severe Side Effects,sinusitis,negative,NEGATIVE,0.996834933757782
+623,finacea,8,Considerably Effective,No Side Effects,acne & rosacea,positive,NEGATIVE,0.975850522518158
+3673,effexor-xr,8,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.993066668510437
+1227,ultracet,9,Highly Effective,Mild Side Effects,chronic pain from disk hernia in cervical spine,positive,NEGATIVE,0.8162321448326111
+3578,differin,7,Considerably Effective,Mild Side Effects,acne,neutral,NEGATIVE,0.9655457139015198
+3450,tamiflu,5,Moderately Effective,Moderate Side Effects,the flu,neutral,NEGATIVE,0.9823471307754517
+689,accutane,10,Highly Effective,Moderate Side Effects,acne vulgaris,positive,NEGATIVE,0.9517734050750732
+70,flexeril,8,Considerably Effective,Moderate Side Effects,muscle spasm/neck and upper back pain,positive,NEGATIVE,0.7060263752937317
+1785,citalopram,8,Highly Effective,Mild Side Effects,"depression, anxiety",positive,NEGATIVE,0.9956411123275757
+568,atenolol,9,Considerably Effective,Mild Side Effects,heart racing and fluttering,positive,NEGATIVE,0.9946138262748718
+2161,zyrtec,5,Highly Effective,Severe Side Effects,allergies,neutral,NEGATIVE,0.9760885238647461
+85,methimazole,5,Highly Effective,Severe Side Effects,hyperthyroidism,neutral,NEGATIVE,0.9800410270690918
+4094,chantix,2,Considerably Effective,Extremely Severe Side Effects,smoking cessation,negative,NEGATIVE,0.9953521490097046
+3869,levoxyl,10,Highly Effective,No Side Effects,under active thyroid,positive,NEGATIVE,0.9861406087875366
+2072,metformin,3,Marginally Effective,No Side Effects,diabetes,negative,NEGATIVE,0.8098652958869934
+3680,effexor-xr,7,Considerably Effective,Severe Side Effects,depression,neutral,NEGATIVE,0.9940353631973267
+117,valtrex,10,Highly Effective,No Side Effects,shingles,positive,NEGATIVE,0.9894053339958191
+2926,tramadol,5,Moderately Effective,Severe Side Effects,migranes,neutral,NEGATIVE,0.9615540504455566
+3383,lipitor,10,Considerably Effective,No Side Effects,high blood cholesterol levels,positive,NEGATIVE,0.9683619737625122
+564,atenolol,7,Moderately Effective,No Side Effects,blood pressure,neutral,NEGATIVE,0.990298867225647
+3253,cleocin,6,Moderately Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9238265156745911
+1753,topamax,8,Moderately Effective,Mild Side Effects,migraine,positive,NEGATIVE,0.9953059554100037
+2813,wellbutrin,4,Moderately Effective,Moderate Side Effects,depression/anxiety,neutral,NEGATIVE,0.9794923067092896
+2022,protonix,9,Considerably Effective,No Side Effects,reflux,positive,POSITIVE,0.9788008332252502
+3863,levoxyl,9,Considerably Effective,No Side Effects,hypothyroidism,positive,NEGATIVE,0.9872620701789856
+3235,nuvaring,5,Highly Effective,Moderate Side Effects,pregnancy,neutral,NEGATIVE,0.9956825971603394
+1580,xanax,8,Considerably Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9822876453399658
+3596,differin,9,Highly Effective,Mild Side Effects,"uneven skin colour, anti-aging",positive,NEGATIVE,0.5103582143783569
+2811,wellbutrin,9,Considerably Effective,Mild Side Effects,depression,positive,POSITIVE,0.6549049615859985
+2078,metformin,10,Highly Effective,No Side Effects,diabetes,positive,NEGATIVE,0.9260302782058716
+1516,glucophage,8,Highly Effective,Moderate Side Effects,pcos/insulin resistance,positive,NEGATIVE,0.9599205255508423
+1668,climara,5,Moderately Effective,Severe Side Effects,perimenopause,neutral,NEGATIVE,0.9969884753227234
+1298,zocor,9,Highly Effective,No Side Effects,high cholerterol,positive,NEGATIVE,0.9962717294692993
+2380,synthroid,8,Considerably Effective,Mild Side Effects,hypothyroidism,positive,NEGATIVE,0.9861177802085876
+1115,effexor,8,Considerably Effective,Moderate Side Effects,depression,positive,NEGATIVE,0.9954583644866943
+4040,tri-luma,10,Highly Effective,Moderate Side Effects,melasma,positive,NEGATIVE,0.9781815409660339
+1776,citalopram,6,Marginally Effective,Moderate Side Effects,depression/anxiety,neutral,NEGATIVE,0.9929336309432983
+2217,benicar-hct,8,Moderately Effective,Moderate Side Effects,high blood pressure,positive,POSITIVE,0.9275931715965271
+311,protopic,4,Highly Effective,Extremely Severe Side Effects,eczema,neutral,NEGATIVE,0.9975727200508118
+1835,yasmin,3,Marginally Effective,Extremely Severe Side Effects,birth control,negative,NEGATIVE,0.993355393409729
+2546,zetia,9,Considerably Effective,No Side Effects,high cholestrol,positive,NEGATIVE,0.9919580221176147
+3508,atacand,9,Considerably Effective,No Side Effects,high blood pressure,positive,NEGATIVE,0.9885518550872803
+986,antivert,10,Highly Effective,Moderate Side Effects,labyrinthitis,positive,NEGATIVE,0.8414322137832642
+2796,wellbutrin,10,Considerably Effective,No Side Effects,depression,positive,NEGATIVE,0.9969075322151184
+4046,amoxil,8,Considerably Effective,No Side Effects,infection (in ear),positive,NEGATIVE,0.9942750334739685
+2244,zovirax,10,Highly Effective,No Side Effects,herpes,positive,NEGATIVE,0.9722647666931152
+2164,zyrtec,9,Highly Effective,No Side Effects,allergies,positive,NEGATIVE,0.9773485660552979
+3460,ambien-cr,10,Highly Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9854381084442139
+3637,retin-a,5,Ineffective,Moderate Side Effects,i had blotchy skin in the form of freckles and sun,neutral,NEGATIVE,0.9886006712913513
+3189,desyrel,7,Considerably Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9862566590309143
+3113,ortho-tri-cyclen,8,Highly Effective,Moderate Side Effects,birth control,positive,NEGATIVE,0.8403165936470032
+1763,topamax,3,Moderately Effective,Extremely Severe Side Effects,migraine,negative,NEGATIVE,0.9945120811462402
+1655,clomid,1,Marginally Effective,Extremely Severe Side Effects,infertility,negative,NEGATIVE,0.9821695685386658
+529,trazodone,8,Considerably Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9816364645957947
+3792,keflex,2,Ineffective,Severe Side Effects,infected lymph node,negative,NEGATIVE,0.994358479976654
+1972,lyrica,8,Moderately Effective,Moderate Side Effects,chronic pain,positive,NEGATIVE,0.9891839027404785
+2772,duac,6,Moderately Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9898703694343567
+3950,prilosec,9,Considerably Effective,No Side Effects,gastric esophogeal reflux disease,positive,NEGATIVE,0.9934839606285095
+1424,adipex-p,8,Highly Effective,Moderate Side Effects,weightloss,positive,NEGATIVE,0.9975183010101318
+1526,fluvoxamine,9,Highly Effective,No Side Effects,insomnia,positive,NEGATIVE,0.9910978078842163
+755,flonase,8,Considerably Effective,Mild Side Effects,"allergies, sinus congestion",positive,NEGATIVE,0.9926687479019165
+1703,retin-a-micro,5,Moderately Effective,Severe Side Effects,pre cancer cels and aging,neutral,NEGATIVE,0.9837611317634583
+1308,fexofenadine,10,Highly Effective,No Side Effects,"dermagraphia, hives",positive,NEGATIVE,0.9957454800605774
+202,adderall,10,Highly Effective,Mild Side Effects,adhd,positive,NEGATIVE,0.9883762001991272
+3409,aricept,2,Ineffective,Mild Side Effects,alzheimer's disease,negative,NEGATIVE,0.9895798563957214
+532,trazodone,5,Moderately Effective,Mild Side Effects,fibromyalgia,neutral,NEGATIVE,0.879477322101593
+1442,tirosint,1,Ineffective,Extremely Severe Side Effects,hypothyroid,negative,NEGATIVE,0.9941111207008362
+1126,evista,9,Highly Effective,Mild Side Effects,osteopenia associated with menopause,positive,NEGATIVE,0.9582957029342651
+1781,citalopram,8,Highly Effective,Mild Side Effects,mood,positive,NEGATIVE,0.9807028770446777
+1878,doxycycline,8,Highly Effective,No Side Effects,lyme ? or unknown,positive,NEGATIVE,0.9583340883255005
+1961,lyrica,8,Considerably Effective,Severe Side Effects,complex regional pain sydrome,positive,NEGATIVE,0.9618476629257202
+57,flexeril,9,Highly Effective,Mild Side Effects,headaches,positive,NEGATIVE,0.9850677251815796
+3990,fosamax,3,Moderately Effective,Moderate Side Effects,osteopenia in both hips and lower back,negative,NEGATIVE,0.9921221137046814
+248,wellbutrin-xl,10,Considerably Effective,Mild Side Effects,depression/anxiety,positive,NEGATIVE,0.9939762353897095
+170,zomig,6,Moderately Effective,Mild Side Effects,migraine,neutral,NEGATIVE,0.9936444759368896
+3440,tazorac,8,Considerably Effective,Mild Side Effects,acne,positive,NEGATIVE,0.8723176717758179
+2771,duac,6,Considerably Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9979464411735535
+3921,nexium,10,Highly Effective,No Side Effects,gerd,positive,POSITIVE,0.8597385883331299
+2800,wellbutrin,8,Considerably Effective,No Side Effects,depression,positive,NEGATIVE,0.9965332746505737
+3433,tazorac,8,Considerably Effective,Moderate Side Effects,anti-wrinkle,positive,NEGATIVE,0.9925519227981567
+2314,lexapro,7,Moderately Effective,Severe Side Effects,being stressed and nervous but yet confident,neutral,NEGATIVE,0.9913657903671265
+2423,synthroid,7,Considerably Effective,Mild Side Effects,thyroid,neutral,NEGATIVE,0.996384859085083
+1500,metrogel,2,Ineffective,Mild Side Effects,rosacia,negative,NEGATIVE,0.9952853322029114
+3030,seroquel,1,Ineffective,Severe Side Effects,"bipolar disorder, hypomania.",negative,NEGATIVE,0.9978651404380798
+1980,benadryl,9,Considerably Effective,No Side Effects,hives,positive,NEGATIVE,0.9933033585548401
+779,naproxen,8,Considerably Effective,Mild Side Effects,musculoskeletal pain; nerve pain,positive,NEGATIVE,0.9633355140686035
+1958,lyrica,8,Considerably Effective,Mild Side Effects,fibromyalgia,positive,NEGATIVE,0.8405248522758484
+1724,trimethoprim,6,Moderately Effective,No Side Effects,cystitis,neutral,NEGATIVE,0.9988406300544739
+3875,levoxyl,1,Ineffective,No Side Effects,hypothyroidism,negative,NEGATIVE,0.9948552846908569
+1475,cymbalta,3,Considerably Effective,Severe Side Effects,depression,negative,NEGATIVE,0.9619628190994263
+1842,yasmin,1,Moderately Effective,Extremely Severe Side Effects,prevent pregnancy,negative,NEGATIVE,0.975685715675354
+601,risperdal,1,Highly Effective,Extremely Severe Side Effects,phycotic episode,negative,NEGATIVE,0.9973402619361877
+3274,zoloft,10,Highly Effective,Mild Side Effects,depression,positive,NEGATIVE,0.6727980375289917
+1372,biaxin,8,Considerably Effective,Mild Side Effects,borreliosis,positive,NEGATIVE,0.966404914855957
+3828,lumigan,7,Considerably Effective,Mild Side Effects,glaucoma,neutral,NEGATIVE,0.9936349391937256
+3993,fosamax,8,Considerably Effective,No Side Effects,osteoporosis,positive,NEGATIVE,0.9821625351905823
+2763,risperdal-consta,5,Considerably Effective,Severe Side Effects,hallucinations,neutral,NEGATIVE,0.9871086478233337
+503,paxil-cr,9,Moderately Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9671573042869568
+2513,motrin,1,Considerably Effective,Extremely Severe Side Effects,flu,negative,NEGATIVE,0.9716981649398804
+3164,prednisone,8,Considerably Effective,No Side Effects,polymorphous light eruption (pmle),positive,NEGATIVE,0.9869390726089478
+2137,concerta,4,Highly Effective,Moderate Side Effects,add,neutral,NEGATIVE,0.9894976615905762
+3086,minocycline,9,Highly Effective,Mild Side Effects,dermatitis ( peri-oral),positive,NEGATIVE,0.9371271133422852
+2024,protonix,8,Moderately Effective,No Side Effects,gerd,positive,NEGATIVE,0.9985356330871582
+4100,chantix,7,Highly Effective,Moderate Side Effects,smoking cessation,neutral,POSITIVE,0.8028954267501831
+1342,lybrel,7,Considerably Effective,Mild Side Effects,no more monthly periods,neutral,NEGATIVE,0.9801457524299622
+453,xyzal,10,Highly Effective,No Side Effects,allergy/asthma,positive,NEGATIVE,0.9319745898246765
+3729,lamictal,7,Highly Effective,Moderate Side Effects,mood disorder,neutral,NEGATIVE,0.9113628268241882
+4128,chantix,3,Considerably Effective,Severe Side Effects,smoking cessation,negative,NEGATIVE,0.9962093830108643
+955,diovan,1,Moderately Effective,Extremely Severe Side Effects,high blood pressure,negative,NEGATIVE,0.984188437461853
+665,erythromycin,3,Marginally Effective,Mild Side Effects,acne,negative,NEGATIVE,0.9950622916221619
+4077,mobic,1,Highly Effective,Extremely Severe Side Effects,back pain,negative,NEGATIVE,0.9780634641647339
+1732,topamax,8,Considerably Effective,Mild Side Effects,migraine prevention,positive,NEGATIVE,0.9941654205322266
+739,flonase,10,Highly Effective,No Side Effects,allergies,positive,NEGATIVE,0.9800018668174744
+352,neurontin,1,Marginally Effective,Severe Side Effects,cervical spondylitis,negative,NEGATIVE,0.9981397390365601
+2394,synthroid,5,Marginally Effective,No Side Effects,hypothyroidism,neutral,NEGATIVE,0.9835134148597717
+1768,citalopram,4,Ineffective,Mild Side Effects,antianxiety/depression,neutral,NEGATIVE,0.8988879919052124
+966,sarafem,10,Highly Effective,Mild Side Effects,pmdd,positive,POSITIVE,0.6472874283790588
+1632,premarin,10,Highly Effective,No Side Effects,menopause,positive,NEGATIVE,0.962822437286377
+1244,sotret,8,Highly Effective,Moderate Side Effects,mild but resistant acne,positive,NEGATIVE,0.9828363060951233
+3320,dilantin,2,Ineffective,Moderate Side Effects,anticonvulsant,negative,NEGATIVE,0.9989848732948303
+452,xyzal,8,Considerably Effective,Mild Side Effects,seasonal allergies,positive,NEGATIVE,0.9748049378395081
+2672,prinivil,3,Ineffective,Moderate Side Effects,? 'heart failure',negative,NEGATIVE,0.9922192096710205
+4154,klaron,8,Considerably Effective,Moderate Side Effects,skin problem,positive,NEGATIVE,0.9811773300170898
+2821,wellbutrin,8,Considerably Effective,No Side Effects,bipolar disorder ii,positive,NEGATIVE,0.976511538028717
+3106,ortho-tri-cyclen,3,Highly Effective,Moderate Side Effects,pregnancy prevention,negative,NEGATIVE,0.914557933807373
+1583,xanax,4,Highly Effective,Moderate Side Effects,anxiety,neutral,NEGATIVE,0.999531626701355
+485,meridia,8,Considerably Effective,Mild Side Effects,wanted to drop about 30 lbs,positive,NEGATIVE,0.9951387643814087
+846,ritalin,10,Highly Effective,No Side Effects,add,positive,POSITIVE,0.5866539478302002
+2625,depo-provera,4,Highly Effective,Moderate Side Effects,contraception,neutral,NEGATIVE,0.9943258166313171
+1559,methotrexate,4,Highly Effective,Severe Side Effects,ra,neutral,NEGATIVE,0.9728767275810242
+2042,noritate,10,Highly Effective,No Side Effects,rash under nasal area,positive,NEGATIVE,0.9936428070068359
+589,acyclovir,10,Highly Effective,No Side Effects,herpes,positive,NEGATIVE,0.9324483871459961
+672,zantac,10,Highly Effective,Mild Side Effects,excess acidity,positive,NEGATIVE,0.9923499226570129
+3249,nuvaring,4,Highly Effective,Severe Side Effects,birth control,neutral,NEGATIVE,0.9965726137161255
+2147,zyrtec,5,Considerably Effective,Moderate Side Effects,allergies,neutral,NEGATIVE,0.9940215945243835
+914,paxil,8,Highly Effective,No Side Effects,anxiety and depression,positive,POSITIVE,0.6277806162834167
+1433,tirosint,2,Ineffective,Severe Side Effects,"hypothyroid, hashimoto",negative,NEGATIVE,0.9701337814331055
+4020,celexa,1,Ineffective,Mild Side Effects,depression,negative,NEGATIVE,0.9991414546966553
+2556,ziana,8,Considerably Effective,Mild Side Effects,acne,positive,NEGATIVE,0.8159517049789429
+2577,klonopin,9,Highly Effective,Mild Side Effects,anxiety/panic attacks/,positive,NEGATIVE,0.9974485039710999
+3328,tetracycline,1,Ineffective,Extremely Severe Side Effects,acne-i was 22 yrs old when i took it,negative,NEGATIVE,0.9990381002426147
+2601,ortho-tri-cyclen-lo,2,Marginally Effective,Moderate Side Effects,heavy menstrual bleeding,negative,NEGATIVE,0.9895923137664795
+3097,triphasil,10,Highly Effective,No Side Effects,birth control,positive,NEGATIVE,0.9952119588851929
+4014,celexa,5,Moderately Effective,Moderate Side Effects,anxiety/depression,neutral,NEGATIVE,0.993301510810852
+39,zyprexa,5,Highly Effective,Severe Side Effects,psychosis,neutral,NEGATIVE,0.9828020930290222
+1775,citalopram,9,Highly Effective,Moderate Side Effects,depression/bipolar affective component,positive,NEGATIVE,0.9696056246757507
+2053,prempro,9,Considerably Effective,Mild Side Effects,menopause,positive,NEGATIVE,0.892553448677063
+1283,provigil,8,Considerably Effective,No Side Effects,narcolepcy,positive,NEGATIVE,0.9770848751068115
+1994,vicodin,1,Marginally Effective,Moderate Side Effects,root canal pain,negative,NEGATIVE,0.9956633448600769
+2844,singulair,3,Considerably Effective,Extremely Severe Side Effects,asthma,negative,NEGATIVE,0.9893782734870911
+902,paxil,10,Highly Effective,Mild Side Effects,anxiety,positive,POSITIVE,0.5354663729667664
+1385,biaxin,2,Highly Effective,Severe Side Effects,upper respiratory infection,negative,NEGATIVE,0.9987812638282776
+1839,yasmin,3,Highly Effective,Moderate Side Effects,birth control,negative,POSITIVE,0.702481746673584
+829,zegerid,8,Considerably Effective,No Side Effects,gerd,positive,NEGATIVE,0.9915551543235779
+2889,avita,8,Marginally Effective,Mild Side Effects,reduce wrinkles,positive,NEGATIVE,0.9244561791419983
+1395,ortho-evra,6,Highly Effective,Moderate Side Effects,"birth control, heavy periods",neutral,NEGATIVE,0.9948095083236694
+2168,zyrtec,10,Highly Effective,No Side Effects,allergy - pollen/food syndrome,positive,NEGATIVE,0.9946908354759216
+962,sarafem,8,Considerably Effective,Mild Side Effects,obsessive compulsive disorder,positive,POSITIVE,0.9736625552177429
+3429,tazorac,9,Highly Effective,Moderate Side Effects,acne,positive,NEGATIVE,0.9846131801605225
+3971,norvasc,10,Highly Effective,No Side Effects,htn,positive,POSITIVE,0.5588006973266602
+3764,spironolactone,10,Considerably Effective,No Side Effects,excessive testosterone levels,positive,NEGATIVE,0.9960915446281433
+3666,effexor-xr,8,Considerably Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9766077995300293
+2629,depo-provera,1,Considerably Effective,Extremely Severe Side Effects,contraception pill,negative,NEGATIVE,0.9985936284065247
+3463,ambien-cr,8,Highly Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9757792353630066
+30,alprazolam,9,Considerably Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.8689435124397278
+1505,metrogel,10,Highly Effective,No Side Effects,rosacea,positive,NEGATIVE,0.9888765215873718
+1801,famvir,6,Considerably Effective,Mild Side Effects,chronic fatigue - epstein barr virus,neutral,NEGATIVE,0.9559217095375061
+3997,fosamax,2,Ineffective,Severe Side Effects,post menapausal osteopenia,negative,NEGATIVE,0.9774558544158936
+2174,zyrtec,8,Considerably Effective,Mild Side Effects,seasonal allergies,positive,NEGATIVE,0.9972962737083435
+3734,lamictal,4,Marginally Effective,Moderate Side Effects,bipolar disorder,neutral,NEGATIVE,0.9825952053070068
+3913,nexium,8,Considerably Effective,No Side Effects,indigestion and check pain,positive,NEGATIVE,0.9890356659889221
+2809,wellbutrin,2,Ineffective,Moderate Side Effects,depression,negative,NEGATIVE,0.9570187330245972
+3547,vivelle-dot,10,Highly Effective,No Side Effects,hysterectomy,positive,NEGATIVE,0.9981880784034729
+2214,alendronate,3,Ineffective,Severe Side Effects,osteoporosis,negative,NEGATIVE,0.9922566413879395
+578,furosemide-injection,2,Ineffective,No Side Effects,chf,negative,NEGATIVE,0.9604731202125549
+2632,depo-provera,5,Highly Effective,Severe Side Effects,birth control,neutral,NEGATIVE,0.9910973310470581
+253,ultram,8,Considerably Effective,Mild Side Effects,cervical osteoarthritis,positive,NEGATIVE,0.8121441006660461
+3376,lipitor,6,Considerably Effective,Moderate Side Effects,cholesterol,neutral,NEGATIVE,0.9840410947799683
+2912,tramadol,5,Moderately Effective,No Side Effects,interstital cystitis,neutral,NEGATIVE,0.987938642501831
+1288,zebeta,9,Considerably Effective,Mild Side Effects,hypertension,positive,NEGATIVE,0.973783016204834
+457,flagyl,8,Highly Effective,Mild Side Effects,bacterial vaginosis,positive,NEGATIVE,0.8299654126167297
+3377,lipitor,6,Moderately Effective,Moderate Side Effects,cholesterol,neutral,POSITIVE,0.9918070435523987
+2344,propecia,9,Considerably Effective,Mild Side Effects,1mg,positive,POSITIVE,0.6271222233772278
+2070,metformin,8,Moderately Effective,Mild Side Effects,type 2 diabetes,positive,NEGATIVE,0.9851122498512268
+1467,cymbalta,1,Marginally Effective,Moderate Side Effects,fibromyalgia and depression,negative,NEGATIVE,0.9691248536109924
+584,acyclovir,10,Highly Effective,No Side Effects,shingles breakout,positive,POSITIVE,0.8247862458229065
+3972,norvasc,10,Highly Effective,No Side Effects,high blood pressure,positive,NEGATIVE,0.9939985275268555
+308,protopic,5,Ineffective,No Side Effects,vitalago,neutral,NEGATIVE,0.9523105025291443
+1909,avelox,9,Highly Effective,Mild Side Effects,"swollen lymph nodes, sick",positive,NEGATIVE,0.9980352520942688
+2029,protonix,9,Considerably Effective,No Side Effects,"acid reflux, gerd",positive,NEGATIVE,0.9929699301719666
+1291,zocor,10,Highly Effective,No Side Effects,hyperlipidemia,positive,NEGATIVE,0.9972265362739563
+948,betamethasone,6,Considerably Effective,Moderate Side Effects,eczema,neutral,NEGATIVE,0.9727017283439636
+465,flagyl,1,Moderately Effective,Extremely Severe Side Effects,gum infection,negative,NEGATIVE,0.9949564337730408
+2999,restoril,10,Highly Effective,No Side Effects,insomnia,positive,NEGATIVE,0.9704809188842773
+710,accutane,9,Highly Effective,Mild Side Effects,acne,positive,POSITIVE,0.6954406499862671
+3956,prilosec,2,Marginally Effective,No Side Effects,gerd,negative,NEGATIVE,0.8620165586471558
+4117,chantix,4,Moderately Effective,Moderate Side Effects,smoking cessation,neutral,NEGATIVE,0.9984574317932129
+2902,cyproheptadine,7,Considerably Effective,Moderate Side Effects,allergies,neutral,NEGATIVE,0.9749200344085693
+3356,lipitor,2,Ineffective,Severe Side Effects,high  cholesterol,negative,NEGATIVE,0.998195230960846
+1836,yasmin,5,Highly Effective,Severe Side Effects,birth control,neutral,NEGATIVE,0.9682221412658691
+3509,minoxidil,10,Highly Effective,No Side Effects,hair loss,positive,NEGATIVE,0.9734054803848267
+2501,naprosyn,1,Ineffective,Mild Side Effects,muscle inflammation,negative,NEGATIVE,0.9943904280662537
+899,paxil,8,Considerably Effective,Mild Side Effects,mild depression,positive,NEGATIVE,0.9958979487419128
+2188,clonazepam,9,Considerably Effective,Moderate Side Effects,"anxiety, ocd",positive,NEGATIVE,0.9932720065116882
+887,paxil,1,Ineffective,Severe Side Effects,depression,negative,NEGATIVE,0.9799144864082336
+4103,chantix,9,Highly Effective,Mild Side Effects,smoking cessation,positive,NEGATIVE,0.9929081201553345
+410,imitrex,10,Highly Effective,No Side Effects,migraine headaches,positive,NEGATIVE,0.9965404272079468
+2465,aciphex,8,Considerably Effective,Moderate Side Effects,gerd,positive,NEGATIVE,0.9832968711853027
+1782,citalopram,10,Highly Effective,Mild Side Effects,anxiety,positive,POSITIVE,0.5353199243545532
+1515,reclipsen,10,Highly Effective,Mild Side Effects,skin breakouts/birth control,positive,POSITIVE,0.9629067778587341
+2936,prednisolone,10,Highly Effective,No Side Effects,prickly heat/heat rash,positive,NEGATIVE,0.9801863431930542
+3920,nexium,10,Highly Effective,No Side Effects,heartburn,positive,NEGATIVE,0.9840161800384521
+3575,differin,10,Highly Effective,Mild Side Effects,localized acne,positive,NEGATIVE,0.9915412068367004
+4024,celexa,9,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9963713884353638
+1076,effexor,5,Considerably Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9810782074928284
+3688,effexor-xr,4,Marginally Effective,Moderate Side Effects,anxiety,neutral,NEGATIVE,0.9964210987091064
+34,alprazolam,5,Considerably Effective,Mild Side Effects,panic attacks,neutral,NEGATIVE,0.9911818504333496
+655,seasonique,9,Highly Effective,Mild Side Effects,birth control,positive,POSITIVE,0.9979092478752136
+2003,vicodin,1,Ineffective,Extremely Severe Side Effects,shoulder & neck pain,negative,NEGATIVE,0.9958413243293762
+138,valtrex,9,Considerably Effective,Moderate Side Effects,genital herpes,positive,NEGATIVE,0.9647954702377319
+4157,aygestin,1,Marginally Effective,Severe Side Effects,endometriosis,negative,NEGATIVE,0.9970101118087769
+49,clarinex,10,Highly Effective,No Side Effects,sinus allergies/hives,positive,POSITIVE,0.7023081183433533
+516,tenormin,4,Marginally Effective,Moderate Side Effects,an unknown ekg wave abnormality,neutral,NEGATIVE,0.9928227066993713
+333,neurontin,5,Marginally Effective,Moderate Side Effects,chonic pain,neutral,NEGATIVE,0.9985106587409973
+845,ritalin,5,Moderately Effective,Mild Side Effects,depression,neutral,NEGATIVE,0.9550792574882507
+540,trazodone,1,Ineffective,Extremely Severe Side Effects,insomnia,negative,NEGATIVE,0.9971421360969543
+904,paxil,9,Highly Effective,No Side Effects,panic attack,positive,NEGATIVE,0.9690791368484497
+3776,metronidazole,6,Highly Effective,Moderate Side Effects,diverticulitis,neutral,NEGATIVE,0.9889655113220215
+931,mevacor,1,Ineffective,Extremely Severe Side Effects,high cholesterol,negative,NEGATIVE,0.99433434009552
+2245,zovirax,10,Highly Effective,No Side Effects,cold sores,positive,NEGATIVE,0.992232084274292
+3812,solodyn,1,Moderately Effective,Extremely Severe Side Effects,acne,negative,NEGATIVE,0.993083119392395
+501,paxil-cr,7,Considerably Effective,Mild Side Effects,ocd,neutral,NEGATIVE,0.9909465312957764
+3339,clarithromycin,8,Highly Effective,Moderate Side Effects,sinus infection due to seasonal allergy,positive,NEGATIVE,0.9198693633079529
+4082,mobic,4,Moderately Effective,Severe Side Effects,anti inflamatory,neutral,NEGATIVE,0.9933091402053833
+3518,lunesta,9,Considerably Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9675814509391785
+22,azulfidine,8,Considerably Effective,Mild Side Effects,colitis,positive,NEGATIVE,0.9781447052955627
+2037,protonix,6,Moderately Effective,No Side Effects,reflux,neutral,NEGATIVE,0.9852612614631653
+3794,keflex,9,Considerably Effective,No Side Effects,chronic sinusitis,positive,NEGATIVE,0.9392722845077515
+3055,seroquel,1,Marginally Effective,Extremely Severe Side Effects,"bi-polar, depression",negative,NEGATIVE,0.984557032585144
+3341,optivar,6,Considerably Effective,Moderate Side Effects,"dry, allergic eyes",neutral,NEGATIVE,0.9941821694374084
+483,meridia,5,Marginally Effective,Mild Side Effects,weight loss,neutral,NEGATIVE,0.9843767881393433
+3654,retin-a,10,Considerably Effective,Moderate Side Effects,wrinkling aroung the eyes and lips,positive,POSITIVE,0.6745537519454956
+3684,effexor-xr,1,Moderately Effective,Extremely Severe Side Effects,"depression, anixety?",negative,NEGATIVE,0.9871196746826172
+3319,dilantin,6,Considerably Effective,Moderate Side Effects,head injury  / brain trauma,neutral,POSITIVE,0.5814051032066345
+4114,chantix,9,Considerably Effective,Mild Side Effects,smoking cessation,positive,NEGATIVE,0.9944792985916138
+4135,chantix,1,Marginally Effective,Extremely Severe Side Effects,smoking cessation,negative,NEGATIVE,0.9970558881759644
+981,macrobid,3,Marginally Effective,No Side Effects,uti,negative,NEGATIVE,0.9821894764900208
+1822,yasmin,8,Considerably Effective,Mild Side Effects,acne,positive,NEGATIVE,0.9682682156562805
+2786,wellbutrin,10,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9866681098937988
+2387,synthroid,9,Highly Effective,No Side Effects,hypothyroidism,positive,NEGATIVE,0.9847849607467651
+1048,elocon,10,Highly Effective,No Side Effects,eczema,positive,NEGATIVE,0.9956305027008057
+467,genotropin,8,Considerably Effective,Mild Side Effects,myalgic encephalomyelitis/cfs,positive,NEGATIVE,0.9926552772521973
+3425,tazorac,8,Considerably Effective,Mild Side Effects,anti-aging,positive,NEGATIVE,0.9192342162132263
+2477,enbrel,10,Highly Effective,No Side Effects,rhuematoid arthritis,positive,NEGATIVE,0.9944085478782654
+523,requip,1,Marginally Effective,Extremely Severe Side Effects,rls associated with sleep apnea,negative,NEGATIVE,0.9766861796379089
+2458,ecotrin,8,Moderately Effective,No Side Effects,pain,positive,NEGATIVE,0.983819305896759
+4041,tri-luma,10,Highly Effective,Mild Side Effects,severe melasma,positive,NEGATIVE,0.9828449487686157
+3027,seroquel,4,Moderately Effective,Severe Side Effects,anxiety,neutral,NEGATIVE,0.9976443648338318
+3196,omnicef,2,Considerably Effective,Extremely Severe Side Effects,ear infection,negative,NEGATIVE,0.9929856657981873
+2523,motrin,2,Ineffective,Mild Side Effects,headache/migrain,negative,NEGATIVE,0.9971281886100769
+3496,maxalt,10,Highly Effective,Mild Side Effects,migraines,positive,NEGATIVE,0.9879533052444458
+3821,estrasorb,10,Highly Effective,No Side Effects,menopausal hot flashes,positive,NEGATIVE,0.9983332753181458
+708,accutane,10,Highly Effective,Severe Side Effects,acne,positive,NEGATIVE,0.9972308278083801
+23,alprazolam,10,Highly Effective,No Side Effects,anxiety,positive,NEGATIVE,0.9549421072006226
+667,erythromycin,6,Moderately Effective,Moderate Side Effects,sinus infection,neutral,NEGATIVE,0.985008955001831
+405,restasis,8,Considerably Effective,Mild Side Effects,dry eye,positive,NEGATIVE,0.9726597666740417
+1507,metoprolol,8,Moderately Effective,No Side Effects,high blood pressure,positive,NEGATIVE,0.9816607236862183
+2959,zyban,1,Ineffective,Extremely Severe Side Effects,quit smoking,negative,NEGATIVE,0.9956509470939636
+1252,catapres,10,Highly Effective,Mild Side Effects,high blood pressure,positive,NEGATIVE,0.9920809864997864
+1075,combipatch,1,Moderately Effective,Severe Side Effects,menopause symptoms,negative,NEGATIVE,0.9811135530471802
+670,dyazide,10,Highly Effective,No Side Effects,general fluid retention,positive,NEGATIVE,0.9958479404449463
+1057,oracea,10,Highly Effective,No Side Effects,rosacea,positive,NEGATIVE,0.985590398311615
+1049,elocon,6,Highly Effective,Severe Side Effects,dermatitis,neutral,NEGATIVE,0.5206321477890015
+3381,lipitor,1,Ineffective,Extremely Severe Side Effects,high cholesterol,negative,NEGATIVE,0.984329342842102
+482,meridia,8,Considerably Effective,Moderate Side Effects,"over eating, reduce wieght gain",positive,NEGATIVE,0.9777516722679138
+1705,retin-a-micro,10,Highly Effective,Mild Side Effects,uneven skin tone and wrinkle prevention,positive,POSITIVE,0.6833711862564087
+3583,differin,7,Moderately Effective,No Side Effects,acne problem,neutral,NEGATIVE,0.9453526139259338
+3081,minocycline,1,Ineffective,Severe Side Effects,acne,negative,NEGATIVE,0.9557747840881348
+2971,niaspan,3,Moderately Effective,Moderate Side Effects,choloesterol,negative,NEGATIVE,0.9709892272949219
+3987,fosamax,4,Marginally Effective,Moderate Side Effects,osteoporosis,neutral,NEGATIVE,0.9864951372146606
+1373,biaxin,8,Highly Effective,Moderate Side Effects,sinus infection,positive,NEGATIVE,0.9817891716957092
+289,panixine-disperdose,8,Highly Effective,Severe Side Effects,"streptoccocus:severe sore throat,high fever(104.4)",positive,NEGATIVE,0.5052174925804138
+1837,yasmin,9,Highly Effective,Mild Side Effects,birth control,positive,NEGATIVE,0.9081889390945435
+1777,citalopram,7,Highly Effective,Severe Side Effects,depression,neutral,NEGATIVE,0.9955171942710876
+2087,anafranil,9,Highly Effective,Moderate Side Effects,excessive fears,positive,NEGATIVE,0.9858421683311462
+3441,tazorac,9,Considerably Effective,Mild Side Effects,melasma,positive,POSITIVE,0.9702338576316833
+3603,retin-a,8,Considerably Effective,Moderate Side Effects,anti aging,positive,NEGATIVE,0.5956317186355591
+1074,combipatch,10,Highly Effective,No Side Effects,menopause,positive,NEGATIVE,0.980461597442627
+295,vesicare,7,Considerably Effective,Mild Side Effects,frequent urination,neutral,NEGATIVE,0.9978959560394287
+61,flexeril,10,Highly Effective,Mild Side Effects,migraine/tension headaches/sleep,positive,NEGATIVE,0.9784806966781616
+548,propranolol,9,Considerably Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9811160564422607
+1007,darvocet-n,8,Highly Effective,Mild Side Effects,arthritic joint pain/carpal tunnel,positive,NEGATIVE,0.9809646010398865
+2383,synthroid,10,Highly Effective,No Side Effects,hashimotos syndrome - hypothyroid symptoms,positive,NEGATIVE,0.9872832298278809
+3562,differin,7,Considerably Effective,Mild Side Effects,very oily skin,neutral,NEGATIVE,0.9830159544944763
+4005,celexa,10,Highly Effective,Mild Side Effects,depression,positive,POSITIVE,0.9944530129432678
+134,valtrex,10,Highly Effective,Mild Side Effects,herpes zoster,positive,NEGATIVE,0.9950698614120483
+1430,adipex-p,8,Considerably Effective,Mild Side Effects,weight loss,positive,POSITIVE,0.9339857697486877
+2934,prednisolone,9,Considerably Effective,No Side Effects,allergy reaction on the face incl swollen face,positive,NEGATIVE,0.9856449365615845
+3546,vivelle-dot,10,Highly Effective,No Side Effects,menopause,positive,NEGATIVE,0.9828432202339172
+3049,seroquel,1,Ineffective,Extremely Severe Side Effects,bipolar disorder,negative,NEGATIVE,0.9929799437522888
+3494,acanya,9,Highly Effective,Mild Side Effects,cystic acne,positive,NEGATIVE,0.9892246127128601
+2608,adderall-xr,4,Highly Effective,Extremely Severe Side Effects,add,neutral,NEGATIVE,0.9919487237930298
+1826,yasmin,5,Highly Effective,Moderate Side Effects,birth control,neutral,NEGATIVE,0.9885029196739197
+2597,phenergan,2,Considerably Effective,Severe Side Effects,nausea,negative,NEGATIVE,0.9951890707015991
+4081,mobic,10,Highly Effective,No Side Effects,severe wrist pain,positive,NEGATIVE,0.973520815372467
+3513,minoxidil,7,Highly Effective,Moderate Side Effects,hair loss,neutral,POSITIVE,0.988410234451294
+720,accutane,6,Highly Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9826368689537048
+1744,topamax,8,Considerably Effective,No Side Effects,ocd,positive,NEGATIVE,0.9937236905097961
+1779,citalopram,8,Considerably Effective,Moderate Side Effects,panic disorder and anxiety,positive,NEGATIVE,0.9828745126724243
+3889,estrostep-fe,8,Highly Effective,Mild Side Effects,oral contraceptive,positive,NEGATIVE,0.9906609654426575
+780,naproxen,8,Considerably Effective,No Side Effects,"tendonitis of the foot, specifially big toe",positive,NEGATIVE,0.911749005317688
+4043,amoxil,10,Highly Effective,No Side Effects,strep  throat,positive,NEGATIVE,0.9886816740036011
+1437,tirosint,5,Ineffective,No Side Effects,"fatigue, weight gain, depression",neutral,POSITIVE,0.5337581634521484
+2634,depo-provera,10,Highly Effective,No Side Effects,severe pms and menstrual pain,positive,NEGATIVE,0.995377779006958
+1389,alesse,10,Highly Effective,No Side Effects,prevent pregnancy,positive,POSITIVE,0.6741600036621094
+2961,zyban,1,Ineffective,Extremely Severe Side Effects,to quit smoking,negative,NEGATIVE,0.993601381778717
+2074,metformin,8,Moderately Effective,Mild Side Effects,prevention of diabetes,positive,NEGATIVE,0.622272253036499
+3058,oxycodone,8,Highly Effective,Mild Side Effects,severe back pain resulting from a herniated disc,positive,NEGATIVE,0.9564270973205566
+2420,synthroid,10,Highly Effective,Mild Side Effects,hypothyroidism,positive,NEGATIVE,0.9781121015548706
+196,adderall,10,Highly Effective,Mild Side Effects,add/adhd,positive,NEGATIVE,0.9917694330215454
+939,levaquin,1,Highly Effective,Severe Side Effects,pneumonia,negative,NEGATIVE,0.9889083504676819
+2720,elavil,5,Moderately Effective,Moderate Side Effects,temporomandibular joint disorder (tmj),neutral,NEGATIVE,0.9348670840263367
+1277,provigil,8,Considerably Effective,Mild Side Effects,ms-related fatigue,positive,NEGATIVE,0.9400454163551331
+3454,tamiflu,1,Ineffective,Extremely Severe Side Effects,h1n1,negative,NEGATIVE,0.9957466721534729
+118,valtrex,6,Considerably Effective,Moderate Side Effects,herpes,neutral,NEGATIVE,0.9434285163879395
+1913,avelox,1,Ineffective,Severe Side Effects,sinus infection,negative,NEGATIVE,0.9985145926475525
+600,risperdal,1,Ineffective,Extremely Severe Side Effects,anxiety,negative,NEGATIVE,0.9985072016716003
+227,wellbutrin-xl,8,Considerably Effective,Mild Side Effects,post trauma depression,positive,NEGATIVE,0.9682755470275879
+3710,lamictal,8,Highly Effective,Moderate Side Effects,epilepsy,positive,NEGATIVE,0.9919103980064392
+2391,synthroid,10,Considerably Effective,No Side Effects,hypothyroid,positive,NEGATIVE,0.9916611909866333
+322,ativan,1,Marginally Effective,Severe Side Effects,ease breathing/fast heart rate,negative,NEGATIVE,0.9876641631126404
+1929,zithromax,5,Moderately Effective,Moderate Side Effects,avod bacterial infection,neutral,NEGATIVE,0.9917874932289124
+2421,synthroid,10,Considerably Effective,No Side Effects,hypothyroidism,positive,POSITIVE,0.9100340008735657
+3423,tazorac,6,Moderately Effective,Moderate Side Effects,"wrinkles, brown spots",neutral,NEGATIVE,0.9931946992874146
+1001,armour-thyroid,10,Highly Effective,No Side Effects,hyhpothyroidism,positive,POSITIVE,0.9459253549575806
+1422,adipex-p,8,Highly Effective,Moderate Side Effects,weight loss,positive,NEGATIVE,0.9672708511352539
+3428,tazorac,6,Considerably Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9887513518333435
+2535,lamisil,10,Highly Effective,Mild Side Effects,toe-nail fungus,positive,NEGATIVE,0.977159321308136
+3662,effexor-xr,8,Considerably Effective,Mild Side Effects,mild to moderate depression,positive,NEGATIVE,0.9930375218391418
+3644,retin-a,9,Considerably Effective,No Side Effects,acne/dull skin,positive,NEGATIVE,0.8087059855461121
+921,paxil,8,Considerably Effective,Moderate Side Effects,panic attacks,positive,NEGATIVE,0.9842789769172668
+4069,mobic,7,Moderately Effective,No Side Effects,arthritis,neutral,NEGATIVE,0.9836189150810242
+3230,nuvaring,9,Highly Effective,Mild Side Effects,birth control,positive,NEGATIVE,0.9903996586799622
+583,acyclovir,10,Highly Effective,Mild Side Effects,hsv1,positive,NEGATIVE,0.9843237996101379
+226,wellbutrin-xl,10,Considerably Effective,No Side Effects,depression,positive,NEGATIVE,0.9666489958763123
+4093,asmanex,8,Highly Effective,Moderate Side Effects,asthma,positive,NEGATIVE,0.919839084148407
+17,proquin-xr,5,Moderately Effective,Moderate Side Effects,recurrent pseudomonas chest infection,neutral,NEGATIVE,0.9798652529716492
+3069,oxycodone,7,Highly Effective,Moderate Side Effects,back pain,neutral,NEGATIVE,0.9935371279716492
+636,seasonique,1,Marginally Effective,Moderate Side Effects,to prevent pregnancy,negative,NEGATIVE,0.9912659525871277
+2002,vicodin,3,Moderately Effective,Moderate Side Effects,tendonitis pain,negative,NEGATIVE,0.9880045056343079
+1747,topamax,9,Considerably Effective,Mild Side Effects,depression/binge eating,positive,NEGATIVE,0.9955466985702515
+1122,evista,10,Highly Effective,No Side Effects,high blood levels of thrombisin,positive,NEGATIVE,0.8674886226654053
+182,adderall,4,Marginally Effective,Mild Side Effects,adha,neutral,POSITIVE,0.9627285599708557
+418,imitrex,7,Considerably Effective,Moderate Side Effects,migraine,neutral,POSITIVE,0.9670508503913879
+3790,keflex,10,Highly Effective,No Side Effects,"tonsillitis, sinusitis also bad tooth ache.",positive,NEGATIVE,0.9894351363182068
+3704,ranitidine,9,Highly Effective,No Side Effects,heartburn,positive,NEGATIVE,0.9896106719970703
+574,lithium-carbonate,5,Marginally Effective,Moderate Side Effects,bipolar disorder,neutral,NEGATIVE,0.9911278486251831
+229,wellbutrin-xl,10,Highly Effective,No Side Effects,"dysthymia ( chronic, low grade depression )",positive,NEGATIVE,0.9904775619506836
+1249,catapres,2,Ineffective,Mild Side Effects,hot flashes,negative,NEGATIVE,0.9857513308525085
+4022,celexa,10,Highly Effective,No Side Effects,anxiety attacks when driving,positive,NEGATIVE,0.9894327521324158
+536,trazodone,10,Highly Effective,Mild Side Effects,sleeplessness associated with depression,positive,NEGATIVE,0.9919204711914062
+3177,desyrel,9,Highly Effective,Mild Side Effects,sleeplessness,positive,NEGATIVE,0.962577760219574
+3711,lamictal,7,Considerably Effective,Moderate Side Effects,bipolar,neutral,POSITIVE,0.979941189289093
+2871,avita,7,Considerably Effective,Mild Side Effects,acne,neutral,POSITIVE,0.6193819642066956
+1824,yasmin,5,Highly Effective,Moderate Side Effects,birth control,neutral,NEGATIVE,0.9701229929924011
+1134,methadone,7,Highly Effective,Moderate Side Effects,addiction,neutral,NEGATIVE,0.9930141568183899
+276,xyrem,3,Marginally Effective,Mild Side Effects,sleep disorders,negative,NEGATIVE,0.9917469024658203
+1739,topamax,7,Considerably Effective,Moderate Side Effects,migraines,neutral,NEGATIVE,0.9867189526557922
+242,wellbutrin-xl,8,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9312918186187744
+1486,cymbalta,1,Ineffective,Extremely Severe Side Effects,depression/anxiety,negative,NEGATIVE,0.9898192286491394
+1294,zocor,5,Highly Effective,Moderate Side Effects,high blood cholesterol,neutral,NEGATIVE,0.9804738759994507
+3199,omnicef,1,Considerably Effective,Extremely Severe Side Effects,strep throat,negative,NEGATIVE,0.999118983745575
+1079,effexor,8,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.998049259185791
+3942,prilosec,10,Highly Effective,No Side Effects,gerd,positive,NEGATIVE,0.9978787899017334
+2499,remeron,10,Highly Effective,Mild Side Effects,greater depression,positive,NEGATIVE,0.9763000011444092
+4012,celexa,7,Highly Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9489367008209229
+2649,aldara,1,Moderately Effective,Extremely Severe Side Effects,bowens cancer on tip of nose,negative,NEGATIVE,0.998606264591217
+3461,ambien-cr,10,Highly Effective,No Side Effects,sleeplessness,positive,NEGATIVE,0.9792450666427612
+2864,aldactone,1,Highly Effective,Extremely Severe Side Effects,acne,negative,NEGATIVE,0.5746944546699524
+3191,tylenol-with-codeine,1,Considerably Effective,Severe Side Effects,pain after minor surgery,negative,NEGATIVE,0.9874812960624695
+3860,levoxyl,4,Marginally Effective,Mild Side Effects,lethergy,neutral,NEGATIVE,0.9697264432907104
+1520,glucophage,10,Highly Effective,No Side Effects,insulin resistance,positive,NEGATIVE,0.9568498730659485
+1662,climara,1,Ineffective,Severe Side Effects,hormone replacement therapy,negative,NEGATIVE,0.9958645105361938
+1292,zocor,1,Ineffective,Severe Side Effects,cholesterol,negative,NEGATIVE,0.9859208464622498
+346,neurontin,8,Considerably Effective,Mild Side Effects,nerve pain - great skin sensitivity,positive,NEGATIVE,0.9633148312568665
+560,doryx,3,Considerably Effective,Severe Side Effects,back acne,negative,NEGATIVE,0.9913437366485596
+1530,skelaxin,10,Highly Effective,No Side Effects,muscle spasm,positive,NEGATIVE,0.9649032950401306
+4042,amoxil,3,Highly Effective,Moderate Side Effects,post surgery,negative,NEGATIVE,0.9600207209587097
+480,tekturna-hct,1,Ineffective,Severe Side Effects,high blood pressure,negative,NEGATIVE,0.9901866912841797
+257,ultram,8,Moderately Effective,Moderate Side Effects,hand pain,positive,NEGATIVE,0.9782364964485168
+1266,provigil,1,Marginally Effective,Extremely Severe Side Effects,daytime sleepiness,negative,NEGATIVE,0.9976547956466675
+535,trazodone,9,Highly Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9932006001472473
+124,valtrex,9,Highly Effective,Mild Side Effects,herpes,positive,NEGATIVE,0.961775541305542
+3190,desyrel,2,Marginally Effective,Moderate Side Effects,"anxiety,insomnia",negative,NEGATIVE,0.9953483939170837
+3859,levoxyl,10,Highly Effective,No Side Effects,hypothyroidism,positive,NEGATIVE,0.9397945404052734
+2428,synthroid,1,Moderately Effective,Severe Side Effects,low thyroid,negative,NEGATIVE,0.9894130825996399
+2039,cozaar,10,Highly Effective,No Side Effects,high blood pressure,positive,NEGATIVE,0.9764848351478577
+2872,avita,7,Considerably Effective,Mild Side Effects,acne,neutral,POSITIVE,0.6193819642066956
+2982,strattera,3,Moderately Effective,Severe Side Effects,add,negative,NEGATIVE,0.9907566905021667
+865,valium,10,Highly Effective,No Side Effects,"migraines, back spasm, insomnia",positive,NEGATIVE,0.9898311495780945
+1928,zithromax,10,Highly Effective,Mild Side Effects,pneumonia,positive,NEGATIVE,0.9933480620384216
+688,accutane,1,Moderately Effective,Severe Side Effects,acne,negative,NEGATIVE,0.9903746247291565
+1617,premarin,1,Ineffective,Extremely Severe Side Effects,menopause,negative,NEGATIVE,0.9934073686599731
+1510,metoprolol,8,Considerably Effective,No Side Effects,hypertension,positive,POSITIVE,0.8104389309883118
+1917,avelox,1,Ineffective,Extremely Severe Side Effects,sinus infection,negative,NEGATIVE,0.998212456703186
+3605,retin-a,6,Moderately Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9953320622444153
+1334,prevacid,8,Considerably Effective,Mild Side Effects,servere stomach pains and reaccuring gastritis.,positive,NEGATIVE,0.9966680407524109
+2762,risperdal-consta,4,Marginally Effective,Moderate Side Effects,bipolar,neutral,NEGATIVE,0.9970098733901978
+490,meridia,10,Highly Effective,Mild Side Effects,obesity,positive,NEGATIVE,0.9950944185256958
+2493,remeron,6,Moderately Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9681448340415955
+2728,elavil,9,Highly Effective,Mild Side Effects,migraines,positive,NEGATIVE,0.9876218438148499
+3155,prednisone,8,Highly Effective,Mild Side Effects,asthma,positive,NEGATIVE,0.9825748801231384
+3490,dyrenium,10,Considerably Effective,Moderate Side Effects,hypertension,positive,NEGATIVE,0.9776580333709717
+1440,tirosint,9,Considerably Effective,No Side Effects,hypothyroidsim,positive,NEGATIVE,0.9898646473884583
+1202,prozac,7,Considerably Effective,No Side Effects,depression,neutral,NEGATIVE,0.987896203994751
+92,pristiq,1,Ineffective,Moderate Side Effects,severe depression,negative,NEGATIVE,0.9986649751663208
+2207,advair-diskus,10,Highly Effective,No Side Effects,asthma,positive,NEGATIVE,0.7271351218223572
+731,claripel-cream,4,Considerably Effective,Severe Side Effects,reaction with benzoyl peroxide,neutral,NEGATIVE,0.9947558641433716
+1829,yasmin,7,Highly Effective,Mild Side Effects,birth control,neutral,NEGATIVE,0.9774252772331238
+3340,clarithromycin,9,Highly Effective,Mild Side Effects,lyme disease,positive,NEGATIVE,0.997763991355896
+2712,prometrium,9,Highly Effective,No Side Effects,menapouse,positive,NEGATIVE,0.9767895340919495
+3802,cialis,10,Highly Effective,No Side Effects,impotence,positive,NEGATIVE,0.807258665561676
+2177,zyrtec,3,Considerably Effective,Severe Side Effects,rhinitis,negative,NEGATIVE,0.9965599179267883
+839,ritalin,9,Highly Effective,Mild Side Effects,fibromyalgia,positive,POSITIVE,0.8726023435592651
+1626,premarin,10,Highly Effective,No Side Effects,menopause,positive,NEGATIVE,0.9047765731811523
+2429,synthroid,7,Moderately Effective,Moderate Side Effects,multinodular goiter,neutral,NEGATIVE,0.9940704703330994
+3660,effexor-xr,10,Highly Effective,Mild Side Effects,depression/anxiety,positive,NEGATIVE,0.9836975932121277
+2130,concerta,8,Considerably Effective,Mild Side Effects,add,positive,POSITIVE,0.9458212852478027
+2587,oxazepam,8,Considerably Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9864592552185059
+1918,avelox,1,Ineffective,Severe Side Effects,sinus infection,negative,NEGATIVE,0.9820897579193115
+154,zomig,7,Highly Effective,Moderate Side Effects,migraine,neutral,NEGATIVE,0.9902347326278687
+3135,geodon,10,Highly Effective,Mild Side Effects,bi-polar disorder,positive,NEGATIVE,0.9934224486351013
+245,wellbutrin-xl,7,Considerably Effective,Moderate Side Effects,anxiety and depression,neutral,NEGATIVE,0.911372721195221
+4138,percocet,5,Moderately Effective,Moderate Side Effects,acl surgery,neutral,NEGATIVE,0.9652790427207947
+550,taclonex,10,Highly Effective,No Side Effects,psoriasis,positive,NEGATIVE,0.9491606950759888
+4149,percocet,3,Moderately Effective,Severe Side Effects,pain management after sugery,negative,NEGATIVE,0.9694052934646606
+1088,effexor,4,Marginally Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9850731492042542
+1394,pamelor,7,Highly Effective,Mild Side Effects,musle relaxant,neutral,NEGATIVE,0.9799601435661316
+543,trazodone,10,Highly Effective,No Side Effects,waking early,positive,NEGATIVE,0.977531909942627
+1280,provigil,8,Considerably Effective,Mild Side Effects,central sleep apnea related fatigue,positive,NEGATIVE,0.9701263904571533
+3836,lumigan,9,Highly Effective,Mild Side Effects,lashes,positive,NEGATIVE,0.9729185700416565
+637,seasonique,10,Highly Effective,Mild Side Effects,unregulated periods,positive,NEGATIVE,0.9959962368011475
+965,sarafem,6,Marginally Effective,Severe Side Effects,depression,neutral,NEGATIVE,0.9168586134910583
+444,lorazepam,10,Highly Effective,Mild Side Effects,panic attacks,positive,NEGATIVE,0.9843654632568359
+1065,botox,6,Moderately Effective,Mild Side Effects,wrinkles,neutral,NEGATIVE,0.9520626664161682
+1555,methotrexate,8,Considerably Effective,Extremely Severe Side Effects,psoriatic arthritis,positive,NEGATIVE,0.9950417876243591
+2756,xenical,8,Moderately Effective,Moderate Side Effects,over weight,positive,NEGATIVE,0.9937183856964111
+3279,zoloft,8,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9955654740333557
+3195,omnicef,2,Marginally Effective,Severe Side Effects,ear infection,negative,NEGATIVE,0.9979550838470459
+3250,triazolam,4,Considerably Effective,Moderate Side Effects,sedation dentistry for dental implants,neutral,NEGATIVE,0.9961485862731934
+3288,zoloft,10,Highly Effective,No Side Effects,"depression, clinical level",positive,NEGATIVE,0.9410086870193481
+436,imitrex,1,Marginally Effective,Extremely Severe Side Effects,migrane,negative,NEGATIVE,0.97002774477005
+296,vesicare,10,Highly Effective,No Side Effects,overactive bladder,positive,NEGATIVE,0.9787207841873169
+502,paxil-cr,8,Highly Effective,Mild Side Effects,anxiety/ibs,positive,NEGATIVE,0.8126164674758911
+1295,zocor,10,Highly Effective,No Side Effects,elevated cholesterol,positive,NEGATIVE,0.7978057265281677
+3418,tazorac,8,Considerably Effective,Mild Side Effects,"acne, aging",positive,POSITIVE,0.9794090390205383
+2863,aldactone,9,Highly Effective,Moderate Side Effects,adult acne,positive,NEGATIVE,0.9462864398956299
+3366,lipitor,10,Highly Effective,No Side Effects,high cholesterol,positive,NEGATIVE,0.86640465259552
+871,paxil,2,Moderately Effective,Severe Side Effects,depression,negative,NEGATIVE,0.9864649772644043
+2757,xenical,10,Highly Effective,Mild Side Effects,obesity,positive,NEGATIVE,0.9968670010566711
+3591,differin,7,Moderately Effective,No Side Effects,acne,neutral,NEGATIVE,0.9940909743309021
+716,accutane,7,Highly Effective,Moderate Side Effects,pimples,neutral,NEGATIVE,0.9493152499198914
+922,paxil,7,Considerably Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9956570863723755
+1594,xanax,5,Highly Effective,Severe Side Effects,bipolar disorder/panic attacks,neutral,NEGATIVE,0.9815191030502319
+996,armour-thyroid,8,Moderately Effective,No Side Effects,hypothyroid,positive,POSITIVE,0.9549285173416138
+3181,desyrel,5,Considerably Effective,Severe Side Effects,insomnia,neutral,NEGATIVE,0.9827808141708374
+679,accutane,8,Considerably Effective,Moderate Side Effects,acne  and scarring,positive,POSITIVE,0.9035258889198303
+443,lorazepam,10,Ineffective,No Side Effects,anxiety,positive,NEGATIVE,0.984477162361145
+3014,cipro,8,Moderately Effective,Mild Side Effects,yeast infection,positive,NEGATIVE,0.9969546794891357
+2291,lexapro,8,Considerably Effective,No Side Effects,anxiety,positive,NEGATIVE,0.9819563031196594
+1010,fentanyl,6,Moderately Effective,Moderate Side Effects,chronic regional pain syndrome,neutral,NEGATIVE,0.9828084111213684
+2966,niaspan,8,Considerably Effective,Mild Side Effects,low hdl,positive,POSITIVE,0.653493344783783
+2300,lexapro,8,Moderately Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9871288537979126
+572,atenolol,8,Moderately Effective,Mild Side Effects,hypertension,positive,NEGATIVE,0.9774817824363708
+3400,proscar,7,Considerably Effective,Mild Side Effects,male pattern baldness,neutral,NEGATIVE,0.9805349707603455
+173,zomig,9,Considerably Effective,Moderate Side Effects,migraine,positive,NEGATIVE,0.9902964234352112
+1006,darvocet-n,1,Marginally Effective,Severe Side Effects,pain relief after outpatient hernia surgery,negative,NEGATIVE,0.9907138347625732
+1708,retin-a-micro,8,Considerably Effective,Mild Side Effects,acne,positive,NEGATIVE,0.6799313426017761
+957,diovan,8,Considerably Effective,Moderate Side Effects,high blood pressure,positive,NEGATIVE,0.9868343472480774
+900,paxil,7,Considerably Effective,Moderate Side Effects,major depressive episode,neutral,NEGATIVE,0.9822003841400146
+4057,amoxil,7,Moderately Effective,Moderate Side Effects,post tooth extraction,neutral,NEGATIVE,0.9826822280883789
+3746,lamictal,10,Highly Effective,No Side Effects,bipolar,positive,NEGATIVE,0.990822434425354
+1680,claritin,9,Considerably Effective,No Side Effects,allergies,positive,NEGATIVE,0.9839746356010437
+2223,allegra,10,Highly Effective,No Side Effects,seasonal allergies,positive,NEGATIVE,0.997087299823761
+2671,prinivil,5,Moderately Effective,Mild Side Effects,high blood pressure,neutral,NEGATIVE,0.995124876499176
+3001,cipro,9,Highly Effective,No Side Effects,gastroenteritis,positive,NEGATIVE,0.9849136471748352
+2684,prinivil,3,Marginally Effective,Moderate Side Effects,hypertension,negative,NEGATIVE,0.995305061340332
+306,protopic,1,Moderately Effective,Severe Side Effects,eczema,negative,NEGATIVE,0.9991986155509949
+10,nasonex,10,Highly Effective,Mild Side Effects,allergies,positive,NEGATIVE,0.9913852214813232
+14,proquin-xr,1,Ineffective,Extremely Severe Side Effects,possible uti - i think?,negative,NEGATIVE,0.9869712591171265
+2564,klonopin,10,Highly Effective,No Side Effects,anxiety,positive,NEGATIVE,0.9779857397079468
+402,restasis,9,Considerably Effective,No Side Effects,chronic dry eyes,positive,NEGATIVE,0.9945880174636841
+1024,vyvanse,10,Highly Effective,Mild Side Effects,add,positive,POSITIVE,0.7477155327796936
+4,nasonex,10,Highly Effective,Mild Side Effects,allergy,positive,NEGATIVE,0.9618983864784241
+686,accutane,3,Considerably Effective,Severe Side Effects,acne,negative,NEGATIVE,0.9991175532341003
+2683,prinivil,4,Moderately Effective,Mild Side Effects,high blood preasure,neutral,NEGATIVE,0.9685190916061401
+2222,allegra,3,Moderately Effective,No Side Effects,itchy watery eyes,negative,NEGATIVE,0.9992484450340271
+2614,adderall-xr,7,Highly Effective,Severe Side Effects,add management,neutral,NEGATIVE,0.9976643323898315
+1090,effexor,4,Marginally Effective,Moderate Side Effects,depression/anxiety,neutral,NEGATIVE,0.9953534603118896
+772,naproxen,3,Considerably Effective,Severe Side Effects,arthritis,negative,NEGATIVE,0.9548349380493164
+1707,retin-a-micro,6,Moderately Effective,No Side Effects,anti aging,neutral,POSITIVE,0.8189955949783325
+2865,aldactone,3,Marginally Effective,Moderate Side Effects,hair loss/ facial hair,negative,NEGATIVE,0.9702543020248413
+2911,tramadol,8,Considerably Effective,Moderate Side Effects,sciatic nerve pain,positive,NEGATIVE,0.9793469309806824
+1702,retin-a-micro,10,Highly Effective,Mild Side Effects,acne,positive,NEGATIVE,0.9873260259628296
+473,remicade,7,Considerably Effective,Moderate Side Effects,reactive arthritis (presents like ra),neutral,NEGATIVE,0.9694021344184875
+1167,zofran,1,Ineffective,Extremely Severe Side Effects,nausea,negative,NEGATIVE,0.9976528286933899
+2914,tramadol,1,Moderately Effective,Extremely Severe Side Effects,severe abdominal pain yet to be diagnosed,negative,NEGATIVE,0.9945942759513855
+3321,danazol,7,Moderately Effective,Mild Side Effects,endometriosis,neutral,NEGATIVE,0.9938501119613647
+2933,prednisolone,6,Considerably Effective,Moderate Side Effects,asthma,neutral,POSITIVE,0.9761236906051636
+1101,effexor,7,Considerably Effective,Mild Side Effects,depression,neutral,NEGATIVE,0.9834681749343872
+4104,chantix,10,Highly Effective,Mild Side Effects,smoking cessation,positive,NEGATIVE,0.979558527469635
+1681,claritin,7,Marginally Effective,Mild Side Effects,"spring allergies, allergy cough",neutral,NEGATIVE,0.9972516894340515
+2107,renova,9,Considerably Effective,Mild Side Effects,acne & sun damaged skin,positive,NEGATIVE,0.9734407067298889
+3565,differin,6,Moderately Effective,Mild Side Effects,acne,neutral,NEGATIVE,0.9774461388587952
+3958,prilosec,10,Highly Effective,No Side Effects,acid reflux,positive,NEGATIVE,0.9865002036094666
+1995,vicodin,10,Highly Effective,No Side Effects,diverticulitis / kidney infection,positive,NEGATIVE,0.9881513118743896
+3999,fosamax,10,Highly Effective,No Side Effects,osteoporosis,positive,NEGATIVE,0.9920380115509033
+577,lithium-carbonate,7,Moderately Effective,Severe Side Effects,bipolar,neutral,NEGATIVE,0.9872949719429016
+1432,tirosint,6,Moderately Effective,No Side Effects,hypothyroidism,neutral,NEGATIVE,0.992319643497467
+290,panixine-disperdose,8,Highly Effective,Mild Side Effects,acne,positive,NEGATIVE,0.99592125415802
+3136,malarone,3,Moderately Effective,Severe Side Effects,malaria prevention,negative,NEGATIVE,0.9910725951194763
+3103,ortho-tri-cyclen,10,Highly Effective,No Side Effects,irregular periods,positive,NEGATIVE,0.9485160708427429
+2701,detrol-la,4,Marginally Effective,Mild Side Effects,spasdic bladder,neutral,NEGATIVE,0.9985835552215576
+3906,nexium,10,Highly Effective,No Side Effects,laryngopharyngeal reflux,positive,NEGATIVE,0.9884478449821472
+2456,ecotrin,8,Highly Effective,No Side Effects,headache,positive,POSITIVE,0.9818106889724731
+4071,mobic,9,Considerably Effective,No Side Effects,tmj - inflamation,positive,NEGATIVE,0.9892114400863647
+249,wellbutrin-xl,7,Considerably Effective,Moderate Side Effects,add,neutral,POSITIVE,0.5455674529075623
+3975,norvasc,7,Moderately Effective,Mild Side Effects,chest pain,neutral,NEGATIVE,0.9666683673858643
+2965,niaspan,10,Highly Effective,Mild Side Effects,high cholesterol,positive,NEGATIVE,0.895530104637146
+1771,citalopram,7,Considerably Effective,Moderate Side Effects,depression and anxiety,neutral,POSITIVE,0.837035059928894
+3826,glyquin-xm,3,Marginally Effective,Mild Side Effects,melasma,negative,NEGATIVE,0.9243987202644348
+66,flexeril,1,Considerably Effective,Severe Side Effects,back spasm/pain,negative,NEGATIVE,0.9990468621253967
+188,adderall,9,Highly Effective,Mild Side Effects,attention deficit disorder,positive,NEGATIVE,0.9882235527038574
+3043,seroquel,1,Ineffective,Extremely Severe Side Effects,depression not resolved with antidepressant drugs,negative,NEGATIVE,0.9899391531944275
+219,wellbutrin-xl,7,Moderately Effective,Mild Side Effects,depression,neutral,NEGATIVE,0.9661026000976562
+380,lamotrigine,9,Highly Effective,Mild Side Effects,epilepsy,positive,POSITIVE,0.956800103187561
+218,wellbutrin-xl,7,Moderately Effective,Mild Side Effects,depression,neutral,NEGATIVE,0.9661026000976562
+3293,zoloft,9,Considerably Effective,Mild Side Effects,severe clinical depression,positive,NEGATIVE,0.8952164649963379
+1886,doxycycline,8,Considerably Effective,Mild Side Effects,m.r.s.a.,positive,NEGATIVE,0.9931426048278809
+252,ultram,2,Marginally Effective,Mild Side Effects,arthritis,negative,NEGATIVE,0.9839035272598267
+1198,prozac,9,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.989459753036499
+2963,niaspan,10,Highly Effective,Mild Side Effects,high total cholesterol,positive,NEGATIVE,0.9769473075866699
+975,macrobid,10,Highly Effective,No Side Effects,bladder infecton,positive,NEGATIVE,0.9939509630203247
+1187,prozac,6,Considerably Effective,Severe Side Effects,depression,neutral,NEGATIVE,0.9886724352836609
+598,risperdal,5,Marginally Effective,Moderate Side Effects,psychosis,neutral,NEGATIVE,0.9929667711257935
+3943,prilosec,7,Moderately Effective,Mild Side Effects,gerd,neutral,NEGATIVE,0.9866952896118164
+2960,zyban,6,Moderately Effective,Severe Side Effects,smoking cessation,neutral,NEGATIVE,0.9910303354263306
+658,seasonique,1,Considerably Effective,Severe Side Effects,ovarian cysts.,negative,NEGATIVE,0.9810777306556702
+472,remicade,1,Considerably Effective,Extremely Severe Side Effects,stills disase,negative,NEGATIVE,0.9943238496780396
+15,proquin-xr,10,Considerably Effective,Mild Side Effects,kidney infection,positive,NEGATIVE,0.9800674319267273
+1847,augmentin,5,Highly Effective,Moderate Side Effects,"tonsilitis, possible strep, and ear infection",neutral,NEGATIVE,0.9920572638511658
+2361,propecia,9,Highly Effective,No Side Effects,thinning hair and balding,positive,NEGATIVE,0.9888234734535217
+821,zyrtec-d,7,Considerably Effective,No Side Effects,allergies,neutral,NEGATIVE,0.9857720732688904
+1945,hyzaar,8,Highly Effective,Mild Side Effects,high blood pressure,positive,NEGATIVE,0.9839115142822266
+2310,lexapro,8,Considerably Effective,Mild Side Effects,depression and anxiety,positive,NEGATIVE,0.96180659532547
+1003,armour-thyroid,10,Highly Effective,No Side Effects,hypothyroid,positive,NEGATIVE,0.990398645401001
+3516,desmopressin,9,Highly Effective,Mild Side Effects,weak bladder  wet bed,positive,POSITIVE,0.5030827522277832
+2903,focalin-xr,7,Considerably Effective,Moderate Side Effects,adhd,neutral,POSITIVE,0.8895898461341858
+388,seasonale,10,Highly Effective,Mild Side Effects,birth control,positive,NEGATIVE,0.982524573802948
+3558,vytorin,8,Highly Effective,Mild Side Effects,elevated cholesterol level,positive,NEGATIVE,0.7390754818916321
+1104,effexor,1,Ineffective,Extremely Severe Side Effects,depression and anxiety,negative,NEGATIVE,0.9919008612632751
+234,wellbutrin-xl,8,Considerably Effective,No Side Effects,depression,positive,NEGATIVE,0.9836903214454651
+1819,humira,8,Highly Effective,Mild Side Effects,crohn's disease,positive,NEGATIVE,0.9896628260612488
+2353,propecia,8,Considerably Effective,No Side Effects,male pattern baldness,positive,NEGATIVE,0.9743831753730774
+36,propylthiouracil,7,Moderately Effective,Moderate Side Effects,hyperthyroid - graves disease,neutral,NEGATIVE,0.9783071279525757
+3192,omnicef,3,Highly Effective,Extremely Severe Side Effects,sore throat,negative,NEGATIVE,0.986454427242279
+1551,methotrexate,5,Moderately Effective,Mild Side Effects,crohns,neutral,NEGATIVE,0.993845522403717
+2478,enbrel,6,Highly Effective,Moderate Side Effects,rheumatoid arthritis,neutral,NEGATIVE,0.9875041842460632
+2611,adderall-xr,9,Considerably Effective,Moderate Side Effects,adhd,positive,NEGATIVE,0.993902325630188
+2778,clindamycin,3,Considerably Effective,Severe Side Effects,"oral surgery; extraction, implants",negative,NEGATIVE,0.9957395792007446
+2599,ortho-tri-cyclen-lo,7,Considerably Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9771032333374023
+1726,advair-hfa,9,Highly Effective,No Side Effects,asthma/allergies,positive,NEGATIVE,0.9820080995559692
+692,accutane,7,Highly Effective,Moderate Side Effects,cystic acne,neutral,NEGATIVE,0.9738926887512207
+317,ativan,8,Considerably Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9880399107933044
+3361,lipitor,7,Moderately Effective,No Side Effects,cholesterol,neutral,NEGATIVE,0.9767091274261475
+798,ambien,9,Ineffective,Severe Side Effects,sleeplessness,positive,NEGATIVE,0.9729814529418945
+3996,fosamax,1,Ineffective,Extremely Severe Side Effects,osteoprosis,negative,NEGATIVE,0.9879550933837891
+1737,topamax,10,Highly Effective,Mild Side Effects,migraine,positive,NEGATIVE,0.992099404335022
+2688,prinivil,1,Considerably Effective,Severe Side Effects,high blood pressure,negative,NEGATIVE,0.9836437106132507
+622,finacea,10,Highly Effective,No Side Effects,mild acne,positive,NEGATIVE,0.9067884087562561
+1192,prozac,9,Highly Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9913903474807739
+3884,abilify,2,Ineffective,Severe Side Effects,bipolar,negative,NEGATIVE,0.8152547478675842
+177,olux,10,Highly Effective,No Side Effects,ezema on my hands,positive,NEGATIVE,0.9918225407600403
+50,clarinex,9,Considerably Effective,Mild Side Effects,allergies,positive,NEGATIVE,0.9942968487739563
+64,flexeril,8,Highly Effective,Mild Side Effects,neck pain,positive,NEGATIVE,0.717167854309082
+1537,vagifem,8,Considerably Effective,Mild Side Effects,vaginal dryness,positive,NEGATIVE,0.9902003407478333
+2396,synthroid,10,Highly Effective,No Side Effects,thyroid cancer,positive,NEGATIVE,0.8676764369010925
+3468,ambien-cr,1,Ineffective,Extremely Severe Side Effects,sleep,negative,NEGATIVE,0.9988148212432861
+3148,tylenol,9,Highly Effective,No Side Effects,toothache,positive,NEGATIVE,0.9724613428115845
+2398,synthroid,10,Highly Effective,No Side Effects,thyroid,positive,NEGATIVE,0.9765690565109253
+2719,elavil,1,Marginally Effective,Severe Side Effects,insomnia,negative,NEGATIVE,0.9626392722129822
+3497,maxalt,9,Considerably Effective,Mild Side Effects,migraine,positive,NEGATIVE,0.9914836287498474
+2481,enbrel,8,Considerably Effective,Moderate Side Effects,ankylosing spondylitis,positive,NEGATIVE,0.9710366725921631
+399,relpax,7,Considerably Effective,Mild Side Effects,migraines,neutral,NEGATIVE,0.975506067276001
+3330,tetracycline,1,Marginally Effective,Extremely Severe Side Effects,ulcer,negative,NEGATIVE,0.9922939538955688
+2669,prinivil,1,Moderately Effective,Extremely Severe Side Effects,high-normal hypertension,negative,NEGATIVE,0.9932652711868286
+2729,elavil,4,Moderately Effective,Moderate Side Effects,insomnia,neutral,NEGATIVE,0.9838916659355164
+762,flonase,5,Considerably Effective,Mild Side Effects,nasal congestion from allergies,neutral,NEGATIVE,0.9912472367286682
+2255,patanol,8,Considerably Effective,No Side Effects,eye allergies,positive,NEGATIVE,0.9623410701751709
+3543,vivelle-dot,9,Highly Effective,Mild Side Effects,menopausal symptoms,positive,NEGATIVE,0.9967777132987976
+3593,differin,3,Marginally Effective,Severe Side Effects,acne,negative,NEGATIVE,0.9914836287498474
+3096,minocycline,9,Considerably Effective,No Side Effects,very severe acne,positive,NEGATIVE,0.9948620200157166
+461,flagyl,1,Ineffective,Extremely Severe Side Effects,crohn's abcess,negative,NEGATIVE,0.9933269023895264
+2962,zyban,4,Considerably Effective,Severe Side Effects,stop smoking,neutral,NEGATIVE,0.9985688924789429
+2496,remeron,7,Considerably Effective,Extremely Severe Side Effects,"depression, insomnia, rx induced insomnia",neutral,NEGATIVE,0.9798832535743713
+4085,mobic,10,Highly Effective,Severe Side Effects,arthritis,positive,NEGATIVE,0.5678785443305969
+3517,methylphenidate,10,Highly Effective,Mild Side Effects,adult  add,positive,NEGATIVE,0.87308669090271
+792,ambien,8,Considerably Effective,Mild Side Effects,stress/insomnia,positive,NEGATIVE,0.9799179434776306
+1420,adipex-p,7,Considerably Effective,Mild Side Effects,"shortness of breath, paranoia",neutral,NEGATIVE,0.9651888608932495
+3552,femhrt,10,Highly Effective,No Side Effects,menopause,positive,NEGATIVE,0.9798515439033508
+3437,tazorac,7,Moderately Effective,Moderate Side Effects,"wrinkles,uneven skin tone,large pores",neutral,NEGATIVE,0.9829921126365662
+386,seasonale,8,Highly Effective,No Side Effects,control of menstrual periods,positive,NEGATIVE,0.9660153985023499
+1399,nordette,10,Highly Effective,No Side Effects,pregnancy avoidance,positive,NEGATIVE,0.9919611811637878
+1963,lyrica,5,Considerably Effective,Moderate Side Effects,pain in my legs,neutral,NEGATIVE,0.9882936477661133
+3481,diazepam,1,Ineffective,Extremely Severe Side Effects,anxiety,negative,NEGATIVE,0.991298496723175
+2115,renova,10,Highly Effective,Mild Side Effects,cystic acne on chin and jaw,positive,POSITIVE,0.8776181936264038
+3360,lipitor,8,Considerably Effective,No Side Effects,cholesterol levels,positive,NEGATIVE,0.9842809438705444
+994,armour-thyroid,10,Highly Effective,No Side Effects,low thyroid,positive,NEGATIVE,0.9982119798660278
+909,paxil,8,Considerably Effective,Mild Side Effects,anxiety/depression,positive,NEGATIVE,0.5265079140663147
+191,adderall,8,Considerably Effective,Moderate Side Effects,attention deficit disorder,positive,NEGATIVE,0.9785283207893372
+2153,zyrtec,10,Highly Effective,No Side Effects,eczema/allergies,positive,NEGATIVE,0.9977849721908569
+4021,celexa,9,Highly Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9897716641426086
+2881,avita,2,Ineffective,No Side Effects,anti ageing,negative,NEGATIVE,0.8461514711380005
+4051,amoxil,10,Highly Effective,No Side Effects,chest infection,positive,NEGATIVE,0.9904847145080566
+1311,fexofenadine,8,Highly Effective,No Side Effects,chronic idiopathic urthicaria with pruritis,positive,NEGATIVE,0.9855131506919861
+2604,ortho-tri-cyclen-lo,9,Highly Effective,Mild Side Effects,pcos/ irregular periods,positive,NEGATIVE,0.9869438409805298
+4025,celexa,10,Highly Effective,Mild Side Effects,depression and anxiety,positive,NEGATIVE,0.96225905418396
+383,corgard,10,Highly Effective,No Side Effects,high blood pressure,positive,NEGATIVE,0.9735491871833801
+1121,effexor,1,Moderately Effective,Extremely Severe Side Effects,gad,negative,NEGATIVE,0.9977594614028931
+2127,renova,8,Considerably Effective,Moderate Side Effects,aging skin,positive,NEGATIVE,0.9919517040252686
+567,atenolol,10,Highly Effective,No Side Effects,high blood pressure,positive,NEGATIVE,0.9896563291549683
+2510,motrin,10,Highly Effective,Mild Side Effects,headake,positive,NEGATIVE,0.9878871440887451
+2658,diclofenac,8,Considerably Effective,Mild Side Effects,slipped disc in back,positive,NEGATIVE,0.950144350528717
+2942,mirapex,3,Marginally Effective,Moderate Side Effects,pain in legs (diagnosis restless leg syndrome),negative,NEGATIVE,0.9842351675033569
+724,claripel-cream,5,Moderately Effective,Moderate Side Effects,age spots,neutral,NEGATIVE,0.9936630725860596
+1154,byetta,10,Highly Effective,Mild Side Effects,diabetes,positive,NEGATIVE,0.9771559238433838
+1653,clomid,1,Ineffective,Severe Side Effects,unexplained infertility,negative,NEGATIVE,0.979017972946167
+2392,synthroid,8,Moderately Effective,No Side Effects,hypothyroid,positive,NEGATIVE,0.9750961661338806
+1336,seroquel-xr,9,Highly Effective,Moderate Side Effects,bipolar disorder 2,positive,NEGATIVE,0.9957691431045532
+1017,estrace,7,Moderately Effective,Moderate Side Effects,surgical menopause,neutral,NEGATIVE,0.991205632686615
+2064,capoten,1,Marginally Effective,Severe Side Effects,high blood pressure,negative,NEGATIVE,0.9882473349571228
+3895,dispermox,1,Ineffective,Moderate Side Effects,ear infection,negative,NEGATIVE,0.9933614730834961
+1750,topamax,7,Highly Effective,Moderate Side Effects,migraine,neutral,NEGATIVE,0.9807084202766418
+3928,nexium,7,Considerably Effective,No Side Effects,acid reflux,neutral,NEGATIVE,0.9848179221153259
+1327,prevacid,10,Highly Effective,No Side Effects,reflux,positive,NEGATIVE,0.8827077150344849
+263,ultram,3,Moderately Effective,Severe Side Effects,sciatica and back pain,negative,NEGATIVE,0.9868323802947998
+3694,effexor-xr,8,Highly Effective,Mild Side Effects,anxiety,positive,NEGATIVE,0.9704593420028687
+1968,lyrica,9,Considerably Effective,No Side Effects,fibromyalgia,positive,POSITIVE,0.605937659740448
+2744,actonel,5,Moderately Effective,Moderate Side Effects,improve bone density,neutral,NEGATIVE,0.9986973404884338
+1575,xanax,6,Considerably Effective,Moderate Side Effects,anxiety,neutral,NEGATIVE,0.9670831561088562
+71,flexeril,7,Moderately Effective,Moderate Side Effects,"tension headaches, upper/lower back pain, neck pai",neutral,NEGATIVE,0.7268509864807129
+1765,topamax,4,Moderately Effective,Severe Side Effects,borderline personality disorder,neutral,NEGATIVE,0.9968281388282776
+3778,metronidazole,7,Moderately Effective,Severe Side Effects,bacterial vaginosis,neutral,NEGATIVE,0.9958894848823547
+2472,enbrel,10,Highly Effective,Mild Side Effects,rheumatoid arthritis,positive,NEGATIVE,0.9844808578491211
+2921,tramadol,10,Highly Effective,No Side Effects,nightly leg pain,positive,NEGATIVE,0.9763815999031067
+169,zomig,9,Highly Effective,Mild Side Effects,migraine,positive,NEGATIVE,0.9864110350608826
+1512,lotrel,8,Highly Effective,Mild Side Effects,blood pressure,positive,NEGATIVE,0.9975079298019409
+3801,dostinex,6,Considerably Effective,Mild Side Effects,prolactin inhibitor,neutral,NEGATIVE,0.8550429344177246
+3512,minoxidil,9,Highly Effective,Mild Side Effects,hair loss,positive,NEGATIVE,0.9779719114303589
+3703,effexor-xr,7,Considerably Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9628753662109375
+4084,mobic,9,Highly Effective,No Side Effects,2 broken arms,positive,NEGATIVE,0.9135788679122925
+652,seasonique,7,Highly Effective,Moderate Side Effects,lessen periods due to pain with adenomyosis,neutral,NEGATIVE,0.993593156337738
+4079,mobic,10,Highly Effective,Moderate Side Effects,inflamation 10 years after surgery,positive,NEGATIVE,0.9970309734344482
+875,paxil,10,Highly Effective,Moderate Side Effects,clinical depression,positive,POSITIVE,0.996612012386322
+1287,provigil,6,Marginally Effective,No Side Effects,fatigue from neurological and heart cond.,neutral,NEGATIVE,0.9486527442932129
+2485,mirtazapine,1,Ineffective,Severe Side Effects,depression,negative,NEGATIVE,0.9901421666145325
+4092,asmanex,10,Highly Effective,No Side Effects,asthma,positive,NEGATIVE,0.9867912530899048
+1964,lyrica,6,Considerably Effective,Severe Side Effects,fibromylgia,neutral,NEGATIVE,0.9955316781997681
+1955,lyrica,2,Marginally Effective,Severe Side Effects,myofascial pain,negative,NEGATIVE,0.9893993139266968
+159,zomig,9,Considerably Effective,Mild Side Effects,migraines,positive,NEGATIVE,0.9785021543502808
+4056,amoxil,8,Considerably Effective,Mild Side Effects,throat infection and cough,positive,NEGATIVE,0.981351375579834
+983,macrobid,1,Considerably Effective,Extremely Severe Side Effects,uti,negative,NEGATIVE,0.9951162338256836
+3323,tetracycline,4,Marginally Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9807773232460022
+1613,avage,8,Moderately Effective,Mild Side Effects,hyperpigmentation,positive,NEGATIVE,0.980323076248169
+953,diovan,7,Highly Effective,Moderate Side Effects,high blood pressure,neutral,NEGATIVE,0.9444053769111633
+2615,adderall-xr,9,Considerably Effective,Mild Side Effects,adhd,positive,NEGATIVE,0.9706615805625916
+3740,lamictal,8,Considerably Effective,Mild Side Effects,bipolar ii,positive,NEGATIVE,0.9777156710624695
+555,doryx,7,Considerably Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9838924407958984
+1344,piroxicam,10,Highly Effective,Mild Side Effects,osteo arthritis,positive,NEGATIVE,0.9738636016845703
+2947,zyban,1,Ineffective,Extremely Severe Side Effects,smoking cessation,negative,NEGATIVE,0.9802039265632629
+3344,lipitor,7,Highly Effective,Severe Side Effects,cholesterol,neutral,NEGATIVE,0.9919186234474182
+1125,evista,10,Highly Effective,No Side Effects,cancer prevention,positive,NEGATIVE,0.9874789714813232
+561,atenolol,8,Considerably Effective,No Side Effects,anxiety induced palpitations,positive,NEGATIVE,0.986052393913269
+1706,retin-a-micro,10,Highly Effective,Moderate Side Effects,acne,positive,NEGATIVE,0.9870423078536987
+2997,restoril,9,Highly Effective,Mild Side Effects,sleep,positive,NEGATIVE,0.9836841821670532
+1800,biaxin-xl,8,Considerably Effective,Severe Side Effects,sinusitis,positive,NEGATIVE,0.9846680760383606
+316,ativan,8,Highly Effective,Moderate Side Effects,alcohol withdrawal,positive,NEGATIVE,0.9701701402664185
+3432,tazorac,5,Marginally Effective,Moderate Side Effects,wrinkles premature aging,neutral,NEGATIVE,0.9970414042472839
+2750,xenical,7,Moderately Effective,Moderate Side Effects,overweight,neutral,NEGATIVE,0.9911450743675232
+1300,zocor,1,Ineffective,Extremely Severe Side Effects,cholesterol levels,negative,NEGATIVE,0.9911037683486938
+3420,tazorac,5,Moderately Effective,Moderate Side Effects,rosacia,neutral,NEGATIVE,0.8097916841506958
+3754,spironolactone,10,Considerably Effective,No Side Effects,acne,positive,NEGATIVE,0.9291664958000183
+2403,synthroid,9,Considerably Effective,No Side Effects,hypothyroidism,positive,NEGATIVE,0.9863859415054321
+1356,crestor,8,Highly Effective,No Side Effects,very high cholestrol level 9.1,positive,NEGATIVE,0.9091523885726929
+646,seasonique,4,Considerably Effective,Severe Side Effects,preventing pregnancy,neutral,NEGATIVE,0.9849611520767212
+299,lovenox,5,Highly Effective,No Side Effects,blood clot as a cause of early stage misscarriage,neutral,NEGATIVE,0.9715080857276917
+1282,provigil,9,Highly Effective,No Side Effects,fatigue,positive,NEGATIVE,0.9748228788375854
+2468,aciphex,6,Highly Effective,Extremely Severe Side Effects,gerd,neutral,NEGATIVE,0.9936962723731995
+3795,keflex,9,Highly Effective,Mild Side Effects,kidney infection,positive,NEGATIVE,0.9417455792427063
+156,zomig,8,Considerably Effective,Mild Side Effects,migraine,positive,NEGATIVE,0.9950665235519409
+195,adderall,10,Highly Effective,Mild Side Effects,add,positive,NEGATIVE,0.7870811820030212
+618,finacea,8,Considerably Effective,No Side Effects,rosacea/acne,positive,NEGATIVE,0.9875048995018005
+2495,remeron,6,Moderately Effective,Mild Side Effects,depression -- anxiety -- insominia,neutral,NEGATIVE,0.9932350516319275
+2009,vicodin,1,Considerably Effective,Moderate Side Effects,"nausea, headaches, dizziness",negative,NEGATIVE,0.996460497379303
+1027,vyvanse,10,Highly Effective,Mild Side Effects,"attention issues, to much to do/ too little time",positive,NEGATIVE,0.7805323004722595
+2331,flecainide,10,Highly Effective,No Side Effects,atrial fibulation,positive,NEGATIVE,0.9949758052825928
+2590,oxazepam,7,Highly Effective,Mild Side Effects,anxiety,neutral,NEGATIVE,0.9945953488349915
+5,nasonex,8,Considerably Effective,Mild Side Effects,"allergies, congested and runny nose",positive,NEGATIVE,0.9967249035835266
+1247,sotret,6,Moderately Effective,Moderate Side Effects,severe nodular acne,neutral,NEGATIVE,0.9919565916061401
+3197,omnicef,3,Considerably Effective,Extremely Severe Side Effects,sinus infection,negative,NEGATIVE,0.9973278045654297
+3717,lamictal,10,Highly Effective,Mild Side Effects,"bipolar disorder, ocd behaviors",positive,NEGATIVE,0.9887174367904663
+3044,seroquel,5,Moderately Effective,Severe Side Effects,borderline personality disorder,neutral,NEGATIVE,0.994921863079071
+1489,metrogel,8,Considerably Effective,Moderate Side Effects,roseasa,positive,NEGATIVE,0.9101583957672119
+1506,metoprolol,7,Considerably Effective,Moderate Side Effects,high blood pressure,neutral,NEGATIVE,0.9906913638114929
+1099,effexor,5,Considerably Effective,Moderate Side Effects,add,neutral,NEGATIVE,0.9974195957183838
+3048,seroquel,8,Highly Effective,Mild Side Effects,sleeplessness - depression,positive,NEGATIVE,0.9890782237052917
+2123,renova,7,Moderately Effective,Mild Side Effects,skin pores/fine lines,neutral,NEGATIVE,0.9824328422546387
+1546,methotrexate,10,Highly Effective,No Side Effects,rheumatoid arthritis,positive,NEGATIVE,0.9721956849098206
+3961,prilosec,6,Moderately Effective,No Side Effects,stomach acid,neutral,NEGATIVE,0.9885051846504211
+369,neurontin,8,Highly Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9880091547966003
+104,celebrex,8,Considerably Effective,No Side Effects,"ostoarthritis, severe body and joint pains",positive,NEGATIVE,0.9891336560249329
+1107,effexor,7,Moderately Effective,Moderate Side Effects,"depression, rumination, anxiety",neutral,NEGATIVE,0.9742351770401001
+2463,etodolac,9,Considerably Effective,Mild Side Effects,osteo-arthritis,positive,NEGATIVE,0.9789708256721497
+1815,humira,1,Ineffective,Extremely Severe Side Effects,rheumatoid arthritis,negative,NEGATIVE,0.9931216835975647
+3489,dyrenium,9,Considerably Effective,Mild Side Effects,high blood pressure,positive,NEGATIVE,0.9597406983375549
+883,paxil,7,Considerably Effective,Moderate Side Effects,anxiety,neutral,NEGATIVE,0.9697604179382324
+3563,differin,6,Moderately Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9609866142272949
+3679,effexor-xr,8,Highly Effective,No Side Effects,anxiety,positive,POSITIVE,0.9978563189506531
+2355,propecia,1,Ineffective,Extremely Severe Side Effects,male-pattern baldness,negative,NEGATIVE,0.9978199005126953
+211,elidel,10,Highly Effective,No Side Effects,idiopathic excema,positive,NEGATIVE,0.9934406876564026
+2571,klonopin,10,Highly Effective,No Side Effects,substitute for a barbiturate,positive,NEGATIVE,0.9657080769538879
+2271,lexapro,9,Considerably Effective,No Side Effects,post partum depression,positive,POSITIVE,0.9137178659439087
+3116,ortho-tri-cyclen,8,Highly Effective,Severe Side Effects,birth control/period regularity,positive,NEGATIVE,0.9757665991783142
+2681,prinivil,5,Marginally Effective,Mild Side Effects,high blood pressure,neutral,NEGATIVE,0.9886507987976074
+2004,vicodin,10,Highly Effective,Mild Side Effects,herniated disc,positive,NEGATIVE,0.9745671153068542
+3337,clarithromycin,7,Considerably Effective,Severe Side Effects,sinusitis,neutral,NEGATIVE,0.9808672070503235
+3451,tamiflu,7,Moderately Effective,No Side Effects,the flu,neutral,NEGATIVE,0.9903990626335144
+3667,effexor-xr,2,Ineffective,Mild Side Effects,menopausal systems,negative,NEGATIVE,0.9778459668159485
+2819,wellbutrin,8,Considerably Effective,Mild Side Effects,depression,positive,NEGATIVE,0.9794667959213257
+3357,lipitor,9,Highly Effective,Mild Side Effects,cholesterol,positive,NEGATIVE,0.9268231987953186
+944,prevalite,6,Considerably Effective,Mild Side Effects,diarreah,neutral,NEGATIVE,0.9889494180679321
+1889,doxycycline,2,Marginally Effective,Moderate Side Effects,chest infection,negative,NEGATIVE,0.9939656853675842
+3681,effexor-xr,8,Highly Effective,Extremely Severe Side Effects,gad,positive,POSITIVE,0.7528674006462097
+4116,chantix,1,Highly Effective,Extremely Severe Side Effects,tobacco addiction,negative,NEGATIVE,0.9877722263336182
+3621,retin-a,10,Considerably Effective,No Side Effects,keratosis pilaris,positive,NEGATIVE,0.9637655019760132
+1876,doxycycline,8,Highly Effective,Mild Side Effects,acne,positive,NEGATIVE,0.5220457911491394
+717,accutane,10,Highly Effective,Moderate Side Effects,acne,positive,NEGATIVE,0.9962214231491089
+1794,citalopram,6,Considerably Effective,Severe Side Effects,depression,neutral,NEGATIVE,0.9951516389846802
+2046,prempro,5,Considerably Effective,Severe Side Effects,menopause,neutral,NEGATIVE,0.9752110242843628
+2627,depo-provera,1,Highly Effective,Severe Side Effects,birth control,negative,NEGATIVE,0.9844911694526672
+3887,abilify,6,Considerably Effective,No Side Effects,depression,neutral,NEGATIVE,0.9993945360183716
+3635,retin-a,10,Considerably Effective,Mild Side Effects,acne and wrinkles,positive,NEGATIVE,0.9897003173828125
+361,neurontin,7,Moderately Effective,Mild Side Effects,peripheral pain arms,neutral,POSITIVE,0.6609247922897339
+1991,vicodin,1,Highly Effective,Severe Side Effects,post-op pain,negative,NEGATIVE,0.9890527129173279
+1446,cymbalta,10,Highly Effective,No Side Effects,fybromyalgia,positive,NEGATIVE,0.9608633518218994
+2229,allegra,8,Considerably Effective,Mild Side Effects,allergy,positive,NEGATIVE,0.9942966103553772
+1474,cymbalta,5,Marginally Effective,Mild Side Effects,fibromyalgia,neutral,NEGATIVE,0.988345742225647
+783,naproxen,1,Ineffective,Moderate Side Effects,costochondritis/ inflammation of the chest wall,negative,NEGATIVE,0.994433581829071
+2986,strattera,3,Marginally Effective,Moderate Side Effects,add,negative,NEGATIVE,0.9968127608299255
+894,paxil,6,Moderately Effective,Moderate Side Effects,depression,neutral,NEGATIVE,0.9805980920791626
+3579,differin,6,Considerably Effective,Moderate Side Effects,acne,neutral,NEGATIVE,0.9882886409759521
+800,ambien,9,Considerably Effective,Mild Side Effects,insomnia,positive,NEGATIVE,0.9756459593772888
+1367,biaxin,1,Highly Effective,Extremely Severe Side Effects,ulcer,negative,NEGATIVE,0.992561399936676
+3916,nexium,8,Considerably Effective,No Side Effects,acid reflux / barrett's esophagus,positive,POSITIVE,0.5004783868789673
+3927,nexium,8,Considerably Effective,No Side Effects,acid reflux,positive,NEGATIVE,0.9750173687934875
+1263,provigil,8,Considerably Effective,Mild Side Effects,multiple sclerosis,positive,NEGATIVE,0.9845378398895264
+521,requip,9,Highly Effective,No Side Effects,restless legs syndrome,positive,NEGATIVE,0.9846709966659546
+892,paxil,10,Highly Effective,Mild Side Effects,mild depression,positive,POSITIVE,0.9570096731185913
+3618,retin-a,9,Highly Effective,Mild Side Effects,acne,positive,NEGATIVE,0.9495315551757812
+1657,clomid,8,Considerably Effective,Moderate Side Effects,infertility,positive,NEGATIVE,0.9972865581512451
+940,levaquin,1,Considerably Effective,Extremely Severe Side Effects,bronchitis,negative,NEGATIVE,0.9872430562973022
+351,neurontin,8,Highly Effective,No Side Effects,"epilepsy, depression and pain",positive,NEGATIVE,0.9696643352508545
+2685,prinivil,2,Marginally Effective,Severe Side Effects,doctor said my blood pressure was somewhat high 14,negative,NEGATIVE,0.9943370223045349
+4026,glucophage-xr,7,Moderately Effective,Moderate Side Effects,diabetes type ii,neutral,NEGATIVE,0.9936180114746094
+3388,coumadin,4,Moderately Effective,Severe Side Effects,heart murmer,neutral,NEGATIVE,0.916167140007019
+3589,differin,6,Moderately Effective,No Side Effects,blackheads,neutral,NEGATIVE,0.9938739538192749
+1156,septra,10,Highly Effective,No Side Effects,urinary infection,positive,NEGATIVE,0.9812890291213989
+4155,aygestin,9,Highly Effective,No Side Effects,hormone balance,positive,POSITIVE,0.8608064651489258
+1848,augmentin,9,Highly Effective,Mild Side Effects,severe abcessed tooth,positive,NEGATIVE,0.9558337330818176
+1020,vyvanse,10,Highly Effective,No Side Effects,adhd,positive,NEGATIVE,0.9876763820648193
+4106,chantix,10,Highly Effective,Mild Side Effects,smoking,positive,NEGATIVE,0.9725819826126099
+1421,adipex-p,5,Marginally Effective,Mild Side Effects,wieght loss,neutral,NEGATIVE,0.9322572946548462
+748,flonase,9,Highly Effective,No Side Effects,sinus congestion,positive,NEGATIVE,0.9904344081878662
+690,accutane,7,Considerably Effective,Severe Side Effects,acne vulgaris,neutral,NEGATIVE,0.9833241105079651
+1071,proair-hfa,10,Highly Effective,No Side Effects,asthma,positive,NEGATIVE,0.9637699127197266
+681,accutane,8,Considerably Effective,Moderate Side Effects,serve acne,positive,NEGATIVE,0.9949012994766235
+2709,divigel,10,Highly Effective,No Side Effects,menopause,positive,POSITIVE,0.8736119270324707
+729,claripel-cream,8,Considerably Effective,Mild Side Effects,acne scarring & hyperpigmentation,positive,NEGATIVE,0.9969757795333862

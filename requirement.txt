@@ -1,0 +1,7 @@
+
+nltk==3.9.1
+numpy==2.3.3
+pandas==2.3.2
+spacy==3.8.7
+transformers==4.56.1
+python-dotenv==1.1.1

@@ -1,7 +1,9 @@
-import os
-import logging
+
+from main import os, sys, _setup_logger , Optional, logging, app_logger
 import pandas as pd
-from typing import Optional
+from pathlib import Path
+
+# log = _setup_logger
 
 class Data_load:
     """
@@ -20,7 +22,7 @@ class Data_load:
         Reads a TSV file and returns a pandas DataFrame.
     """
 
-    def __init__(self, data_dir: str = "../data/raw", logger: Optional[logging.Logger] = None):
+    def __init__(self, data_dir: Optional[Path] = None, logger: Optional[logging.Logger] = None):
         """
         Initialize Data reader with a data directory and logger.
 
@@ -31,26 +33,13 @@ class Data_load:
         logger : Optional[logging.Logger]
             Custom logger instance. If None, a default logger is created.
         """
-        self.data_dir = data_dir
-        self.logger = logger or self._setup_logger()
+        if data_dir:
+            self.data_dir = data_dir
+        else:
+            project_root = Path(__file__).resolve().parent.parent
+            self.data_dir = os.path.join(project_root,"data/raw")
 
-    def _setup_logger(self) -> logging.Logger:
-        """
-        Set up a logger for the TSVReader class.
-
-        Returns
-        -------
-        logging.Logger
-            Configured logger instance.
-        """
-        logger = logging.getLogger("TSVReader")
-        logger.setLevel(logging.INFO)
-        handler = logging.StreamHandler()
-        formatter = logging.Formatter('[%(asctime)s] %(levelname)s - %(message)s')
-        handler.setFormatter(formatter)
-        if not logger.hasHandlers():
-            logger.addHandler(handler)
-        return logger
+        self.logger = logger or app_logger
 
     def read_tsv(self, filename: str) -> pd.DataFrame:
         """
@@ -92,7 +81,7 @@ class Data_load:
             raise
 
 # Example usage:
-# if __name__ == "__main__":
-#     reader = TSVReader()
-#     df = reader.read_tsv("sample.tsv")
-#     print(df.head())
+app_logger.info(f"execuiting data_load.py as <<<{__name__}>>>")
+if __name__ == "__main__":
+    reader = Data_load()
+    print(reader.read_tsv("drugLibTest_raw.tsv").head())
