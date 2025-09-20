@@ -1,3 +1,4 @@
 ml_venv
 *.pyc
 __pycache__/*
+*/mlruns/*

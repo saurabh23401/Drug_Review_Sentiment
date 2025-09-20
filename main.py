@@ -4,11 +4,17 @@ import os
 import sys
 import logging
 from typing import Optional
+import warnings
+import pandas as pd 
+
+
 
 if os.getenv('log_level') is None:
      log_level = 20
 else:
      log_level = int(os.getenv('log_level'))
+
+warnings.simplefilter(action='ignore', category=pd.errors.SettingWithCopyWarning)
 
 def _setup_logger(log_level: int=20) -> logging.Logger:
         """

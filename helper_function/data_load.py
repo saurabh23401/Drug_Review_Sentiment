@@ -1,6 +1,5 @@
 
-from main import os, sys, _setup_logger , Optional, logging, app_logger
-import pandas as pd
+from main import os, sys, _setup_logger , Optional, logging, app_logger, pd
 from pathlib import Path
 
 # log = _setup_logger

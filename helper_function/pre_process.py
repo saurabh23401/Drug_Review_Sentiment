@@ -1,9 +1,8 @@
 import spacy
 from spacy.cli import download
 import nltk
-from main import app_logger
+from main import app_logger, pd
 import numpy as np
-import pandas as pd
 from transformers import pipeline
 
 try:
@@ -53,7 +52,7 @@ def sentiment_polarities(df, rating:str, limit:list=[8,3] )-> pd.DataFrame:
     ]
     choices = ['positive', 'negative']
 
-    df['sentiment_rating'] = np.select(conditions, choices, default='neutral')
+    df.loc[:, 'sentiment_rating']  = np.select(conditions, choices, default='neutral')
     
     app_logger.info(f"Polarities assigned for the system generated column")
 
@@ -66,10 +65,10 @@ def text_cleaning(drug_train_raw, cols_to_concat:list=None,
 
     # drug_train_raw["combined_text"] = drug_train_raw[cols_to_concat].sum(axis=1)
 
-    drug_train_raw['combined_text'] = (drug_train_raw[cols_to_concat].fillna('').astype(str).agg(' '.join, axis=1))
+    drug_train_raw.loc[:, 'combined_text'] = (drug_train_raw[cols_to_concat].fillna('').astype(str).agg(' '.join, axis=1))
     # drug_train_raw['combined_text'] = drug_train_raw['benefitsReview'] + drug_train_raw['sideEffectsReview'] + drug_train_raw['commentsReview']
-    drug_train_raw['combined_text'] = drug_train_raw['combined_text'].fillna('')
-    drug_train_raw['clean_text'] = drug_train_raw['combined_text'].apply(text_tokenization)
+    drug_train_raw.loc[:,'combined_text'] = drug_train_raw['combined_text'].fillna('')
+    drug_train_raw.loc[:,'clean_text'] = drug_train_raw['combined_text'].apply(text_tokenization)
 
     app_logger.info(f"Removing stopwords process completed>>> scanned {sum(drug_train_raw['combined_text'].str.split().str.len())} words")
 
@@ -84,7 +83,7 @@ def text_transformer(df:pd.DataFrame, cleaned_texts_col_name:str,
         "sentiment-analysis",
         model=str(mdl_name)
     )
-    app_logger.info(f"processing {len(df)} for sentiment {cleaned_texts_col_name} analysis")
+    app_logger.info(f"processing {len(df)} records for sentiment {cleaned_texts_col_name} analysis")
     predictions = sentiment_classifier(df[cleaned_texts_col_name].tolist())
 
     df['mdl_sentiment_lbl'] = [lbl["label"] for lbl in predictions]
@@ -106,6 +105,7 @@ def generate_text_transformation(df:pd.DataFrame,cols_to_concat:list,
     app_logger.info(f"processed clean text df..saving at intermediate location >>> data/raw/ ")
 
     transformed_df = text_transformer(clean_txt_df,'clean_text', mdl_name)
+    transformed_df = transformed_df.copy()
     transformed_df.drop(cols_to_concat+['clean_text'], axis=1, inplace=True)
 
     app_logger.info(f"Transformation completed >>>> saving file data/processed")
