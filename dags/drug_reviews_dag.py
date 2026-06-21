@@ -4,13 +4,13 @@ from airflow import DAG
 from airflow.operators.dummy import DummyOperator
 from airflow.operators.python import PythonOperator
 
-# Importing your actual pipeline functions
-# from etl.preprocess import main as preprocess_main
-# from etl.ner_normalize import main as ner_normalize_main
-# from etl.vectorize import main as vectorize_main
-# from etl.train_model import main as train_model_main
-# from etl.batch_infer import main as batch_infer_main
-# from etl.update_dashboard import main as update_dashboard_main
+from airflow.datasets import Dataset
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.dirname(__file__) + '/../'))
+from main import run_processing
+
+drug_review_dataset = Dataset("data\raw\drugLibTest_raw.tsv")
 
 default_args = {
     "owner": "airflow",
@@ -29,8 +29,16 @@ with DAG(
     description="ETL pipeline for drug review sentiment with NER and dashboard update"
 ) as dag:
 
-    start = DummyOperator(task_id="start")
-    end   = DummyOperator(task_id="end")
+    start_task = DummyOperator(task_id="start_task")
+    
+    process_task = PythonOperator(
+        task_id="processing_dag",
+        python_callable=run_processing
+    )
+
+    dag_end  = DummyOperator(task_id="Dag_end")
+
+    start_task >> process_task >> dag_end
 
     # clean_and_preprocess = PythonOperator(
     #     task_id="clean_and_preprocess",

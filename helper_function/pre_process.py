@@ -1,7 +1,7 @@
 import spacy
 from spacy.cli import download
 import nltk
-from main import app_logger, pd
+from main import app_logger, pd, os
 import numpy as np
 from transformers import pipeline
 
@@ -91,7 +91,7 @@ def text_transformer(df:pd.DataFrame, cleaned_texts_col_name:str,
 
     return df
 
-def generate_text_transformation(df:pd.DataFrame,cols_to_concat:list, 
+def generate_text_transformation(df:pd.DataFrame,project_dir,cols_to_concat:list, 
                                 polarities_limit:list=[8,3], sys_col_rating_nm:str="rating", 
                                 mdl_name:str ="distilbert-base-uncased-finetuned-sst-2-english")-> pd.DataFrame:
     
@@ -101,7 +101,8 @@ def generate_text_transformation(df:pd.DataFrame,cols_to_concat:list,
     clean_txt_df = text_cleaning(df, cols_to_concat)
     clean_txt_df.drop('combined_text', axis=1, inplace=True)
 
-    clean_txt_df.to_csv('../data/raw/drug_train_clean_text.csv', index=False)
+
+    clean_txt_df.to_csv(os.path.join(project_dir,'data','raw','drug_train_clean_text.csv'), index=False)
     app_logger.info(f"processed clean text df..saving at intermediate location >>> data/raw/ ")
 
     transformed_df = text_transformer(clean_txt_df,'clean_text', mdl_name)
@@ -109,7 +110,7 @@ def generate_text_transformation(df:pd.DataFrame,cols_to_concat:list,
     transformed_df.drop(cols_to_concat+['clean_text'], axis=1, inplace=True)
 
     app_logger.info(f"Transformation completed >>>> saving file data/processed")
-    transformed_df.to_csv('../data/processed/drug_transformed.csv', index=False)
+    transformed_df.to_csv(os.path.join(project_dir,'data','processed','drug_transformed.csv'), index=False)
 
     return transformed_df
 

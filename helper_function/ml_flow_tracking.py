@@ -51,7 +51,8 @@ def run_mlflow_tracking(
 
         # Run your transformation pipeline
         transformed_df = generate_text_transformation(
-            df, cols_to_concat, polarities_limit, sys_col_rating_nm, mdl_name
+            df,project_root, cols_to_concat, polarities_limit, 
+            sys_col_rating_nm, mdl_name,
         )
 
         # Calculate and log metrics (example: sentiment distribution)
